@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<meta name="theme-color" content="#1f2522">
+<title>看讲解</title>
+<meta name="color-scheme" content="dark">
+<meta name="robots" content="noindex">
+<link rel="preload" href="fonts/kai.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="player">
+<header class="bar">
+  <a class="back" href="./" id="back" aria-label="返回作业本">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <span>返回</span>
+  </a>
+  <h1 id="title">看讲解</h1>
+</header>
+
+<main class="stage">
+  <canvas id="c" width="1080" height="1920" aria-label="讲解动画"></canvas>
+
+  <div class="layer start" id="start">
+    <button class="big" id="startBtn">开始看讲解</button>
+    <p class="soft" id="startNote">正在准备……</p>
+  </div>
+
+  <div class="layer sheet" id="quiz" hidden>
+    <p class="q" id="quizQ"></p>
+    <div class="opts" id="quizOpts"></div>
+    <p class="fb" id="quizFb" aria-live="polite"></p>
+  </div>
+
+  <div class="layer sheet end" id="end" hidden>
+    <button class="big" id="nextBtn" hidden></button>
+    <button class="plain" id="againBtn">再看一遍</button>
+    <a class="plain" href="./" id="homeBtn">回到作业本</a>
+  </div>
+</main>
+
+<footer class="controls">
+  <button class="pp" id="pp" aria-label="暂停">
+    <svg id="icoPause" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1.2" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1.2" fill="currentColor"/></svg>
+    <svg id="icoPlay" viewBox="0 0 24 24" width="26" height="26" aria-hidden="true" hidden><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>
+  </button>
+  <input type="range" id="seek" min="0" max="100" step="0.1" value="0" aria-label="播放进度">
+  <span class="time" id="time">0:00</span>
+</footer>
+
+<!-- 引擎自带的预览控件：这里用不到，留着给 engine.js 绑定 -->
+<div id="ui" hidden><input id="scrub" type="range"><span id="tt"></span><button id="play"></button></div>
+
+<audio id="audio" preload="auto"></audio>
+<script>
+// 选哪一段讲解：lesson.html?l=F1
+(() => {
+  const id = (new URLSearchParams(location.search).get('l') || 'C').replace(/[^A-Za-z0-9]/g, '');
+  window.LESSON_ID = id;
+  window.FILM_SIZE = [1080, 1920];
+  window.PUNCH = 0;
+  window.DESK_PATH = `lessons/${id}.json`;
+  window.SCENE_LIBS = ['engine/film.js'];
+  window.FONT_FACES = [
+    { family: 'LXGWWenKai-500', url: 'fonts/kai.woff' },
+    { family: 'Kalam-700', url: 'fonts/hand.woff' },
+    { family: 'PuHui-Heavy', url: 'fonts/hei.woff' },
+  ];
+  window.TRANSITIONS = {};
+  const x = new XMLHttpRequest(); x.open('GET', window.DESK_PATH, false); x.send();
+  if (x.status !== 200) { document.title = '找不到这段讲解'; window.ERAS = [{ id: 'mul', dur: 1 }]; window.__missing = true; return; }
+  const D = JSON.parse(x.responseText);
+  window.ERAS = [{ id: 'mul', dur: D.dur }];
+  window.EXTRA_ASSETS = [...new Set((D.strips || []).map(s => s.photo || 'mul/photo.png'))];
+})();
+</script>
+<script src="engine/util.js"></script>
+<script src="engine/paint.js"></script>
+<script src="engine/motion.js"></script>
+<script src="engine/collage.js"></script>
+<script src="engine/media.js"></script>
+<script src="engine/index.js"></script>
+<script src="engine/engine.js"></script>
+<script src="player.js"></script>
+</body>
+</html>
