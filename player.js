@@ -4,6 +4,12 @@
   const id = window.LESSON_ID, audio = $('audio'), seek = $('seek'), pp = $('pp');
   let L = null, quizDone = false, raf = 0, tries = 0;
 
+  // 画面按可用空间等比缩放（9:16），屏幕转动、地址栏收起时重算
+  const cv = $('c'), stage = cv.parentElement;
+  const fit = () => { const w = stage.clientWidth - 16, h = stage.clientHeight - 8; if (w <= 0 || h <= 0) return; const k = Math.min(w / 1080, h / 1920);
+    cv.style.width = Math.floor(1080 * k) + 'px'; cv.style.height = Math.floor(1920 * k) + 'px'; };
+  fit(); window.addEventListener('resize', fit); window.addEventListener('orientationchange', () => setTimeout(fit, 200));
+  if (window.ResizeObserver) new ResizeObserver(fit).observe(stage);
   const fmt = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
   const draw = () => { if (window.__ready) window.renderFrame(Math.min(audio.currentTime, window.__total - 0.001)); seek.value = audio.currentTime; $('time').textContent = fmt(audio.currentTime); };
   const loop = () => { draw(); maybeQuiz(); if (!audio.paused) raf = requestAnimationFrame(loop); };
