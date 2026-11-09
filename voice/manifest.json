@@ -1,322 +1,1062 @@
 {
- "ij54n5": {
-  "file": "ij54n5.mp3",
-  "dur": 4.21,
-  "text": "我们先想想：4乘几，会等于36？"
+ "version": 2,
+ "profile": {
+  "engine": "cosyvoice",
+  "model": "cosyvoice-v3-flash",
+  "voice": "longxiaochun_v3",
+  "rate": 0.92
  },
- "gpwi1l": {
-  "file": "gpwi1l.mp3",
-  "dur": 4.99,
-  "text": "提示：4的口诀里，哪一句的得数是36？"
- },
- "466m9c": {
-  "file": "466m9c.mp3",
-  "dur": 1.99,
-  "text": "没关系，我们分一分看。"
- },
- "8hmgq0": {
-  "file": "8hmgq0.mp3",
-  "dur": 7.34,
-  "text": "对啦。4乘9等于36，所以36除以4等于9。我们看看分出来是什么样子。"
- },
- "1lq4f78": {
-  "file": "1lq4f78.mp3",
-  "dur": 7.26,
-  "text": "三十六颗糖，平均分给四个小朋友。一人一颗地发，发一轮要用四颗。"
- },
- "m661bf": {
-  "file": "m661bf.mp3",
-  "dur": 2.35,
-  "text": "第一轮，每人一颗。"
- },
- "dasmgv": {
-  "file": "dasmgv.mp3",
-  "dur": 2.01,
-  "text": "再发一轮，每人两颗。"
- },
- "7vxlgn": {
-  "file": "7vxlgn.mp3",
-  "dur": 2.19,
-  "text": "就这样，一轮一轮地发……"
- },
- "zd2wy2": {
-  "file": "zd2wy2.mp3",
-  "dur": 5.72,
-  "text": "已经发了六轮，每人六颗。还剩十二颗，还能再发几轮？"
- },
- "sc3z1k": {
-  "file": "sc3z1k.mp3",
-  "dur": 3.53,
-  "text": "对啦。再发三轮，每人九颗。"
- },
- "g2trzl": {
-  "file": "g2trzl.mp3",
-  "dur": 2.85,
-  "text": "我们一轮一轮发发看。点「再发一轮」。"
- },
- "1c8j7m9": {
-  "file": "1c8j7m9.mp3",
-  "dur": 3.0,
-  "text": "发完了。每人九颗，一颗也没剩。"
- },
- "1ek1fum": {
-  "file": "1ek1fum.mp3",
-  "dur": 8.39,
-  "text": "四个小朋友，每人九颗，正好三十六颗。4乘9等于36，所以36除以4等于9。"
- },
- "19qm9gb": {
-  "file": "19qm9gb.mp3",
-  "dur": 4.86,
-  "text": "想不起来时，就先想：4乘几等于36。"
- },
- "73da1w": {
-  "file": "73da1w.mp3",
-  "dur": 6.87,
-  "text": "换个办法：用4的口诀跳一跳。从0开始，每次跳四格。"
- },
- "1k5wpl5": {
-  "file": "1k5wpl5.mp3",
-  "dur": 2.22,
-  "text": "跳到36，一共跳了几次？"
- },
- "e4flhc": {
-  "file": "e4flhc.mp3",
-  "dur": 4.18,
-  "text": "对啦。跳了九次，36里面有九个4。"
- },
- "yb4hww": {
-  "file": "yb4hww.mp3",
-  "dur": 2.85,
-  "text": "我们数一数：一共跳了九次。"
- },
- "2w1w3l": {
-  "file": "2w1w3l.mp3",
-  "dur": 5.59,
-  "text": "三十六颗有点多，拆小一点：先分二十颗，再分十六颗。"
- },
- "roz8cb": {
-  "file": "roz8cb.mp3",
-  "dur": 2.48,
-  "text": "先分二十颗，每人五颗。"
- },
- "vm8ua0": {
-  "file": "vm8ua0.mp3",
-  "dur": 2.69,
-  "text": "再分十六颗，每人又多四颗。"
- },
- "sja458": {
-  "file": "sja458.mp3",
-  "dur": 2.61,
-  "text": "5加4，每人一共几颗？"
- },
- "a50l2u": {
-  "file": "a50l2u.mp3",
-  "dur": 2.9,
-  "text": "对啦。5加4等于9，每人九颗。"
- },
- "1c9y79r": {
-  "file": "1c9y79r.mp3",
-  "dur": 2.66,
-  "text": "5加4等于9，每人九颗。"
- },
- "1ddqg38": {
-  "file": "1ddqg38.mp3",
-  "dur": 3.68,
-  "text": "先看简单的：八颗糖，平均分给四个小朋友。"
- },
- "14ureyl": {
-  "file": "14ureyl.mp3",
-  "dur": 5.56,
-  "text": "每人两颗，一样多。每人分得一样多，就叫平均分。"
- },
- "4tb41k": {
-  "file": "4tb41k.mp3",
-  "dur": 2.77,
-  "text": "好，现在回到三十六颗糖。"
- },
- "16uipj3": {
-  "file": "16uipj3.mp3",
-  "dur": 5.56,
-  "text": "这道题和刚才的很像。你来试试：28除以4等于几？"
- },
- "ucso11": {
-  "file": "ucso11.mp3",
-  "dur": 2.48,
-  "text": "提示：4乘几等于28？"
- },
- "n37vxs": {
-  "file": "n37vxs.mp3",
-  "dur": 6.71,
-  "text": "对啦。你先想到了4乘7等于28，用乘法来想除法，这个办法很好。"
- },
- "fdjsan": {
-  "file": "fdjsan.mp3",
-  "dur": 7.39,
-  "text": "我们分一分看：二十八颗分给四个人，每人七颗。所以28除以4等于7。"
- },
- "5r6esx": {
-  "file": "5r6esx.mp3",
-  "dur": 6.01,
-  "text": "4、8、12、16、20、24、28、32、36。"
- },
- "1grac8g": {
-  "file": "1grac8g.mp3",
-  "dur": 5.12,
-  "text": "4乘8等于32，还不到36。没关系，我们分一分看。"
- },
- "1e8h19j": {
-  "file": "1e8h19j.mp3",
-  "dur": 5.49,
-  "text": "4乘10等于40，比36多了。没关系，我们分一分看。"
- },
- "12pnxlq": {
-  "file": "12pnxlq.mp3",
-  "dur": 3.66,
-  "text": "4乘5等于20，还不到28。再想一想？"
- },
- "13l2ya3": {
-  "file": "13l2ya3.mp3",
-  "dur": 4.34,
-  "text": "4乘6等于24，还不到28。再想一想？"
- },
- "j46l4f": {
-  "file": "j46l4f.mp3",
-  "dur": 4.18,
-  "text": "4乘8等于32，比28多了。再想一想？"
- },
- "13tbzcf": {
-  "file": "13tbzcf.mp3",
-  "dur": 4.6,
-  "text": "先看拿走这一空。你填的是三个，填对了。"
- },
- "jyuihv": {
-  "file": "jyuihv.mp3",
-  "dur": 11.05,
-  "text": "每人分五个，用掉二十个，还多出三个。把多出来的拿走，就正好分完。你知道要看多出来几个，这个想法很好。"
- },
- "e8jpd": {
-  "file": "e8jpd.mp3",
-  "dur": 5.25,
-  "text": "那增加这一空呢？我们一起想一想：至少增加几个，才能正好分完？"
- },
- "n40el7": {
-  "file": "n40el7.mp3",
-  "dur": 4.05,
-  "text": "提示：先分一分，看看最后一轮还差几个。"
- },
- "13tzgs0": {
-  "file": "13tzgs0.mp3",
-  "dur": 1.83,
-  "text": "没关系，我们一起分一分。"
- },
- "1dtv9l2": {
-  "file": "1dtv9l2.mp3",
-  "dur": 3.66,
-  "text": "对，增加一个。我们分一分，看看为什么是一个。"
- },
- "mwvkmj": {
-  "file": "mwvkmj.mp3",
-  "dur": 2.43,
-  "text": "我们一起分一分，看看还差几个。"
- },
- "hno00p": {
-  "file": "hno00p.mp3",
-  "dur": 5.54,
-  "text": "我们一个一个发。每个小朋友先发一个，这是第一轮，用了四个。"
- },
- "10wstac": {
-  "file": "10wstac.mp3",
-  "dur": 3.84,
-  "text": "就这样一轮一轮发：第二轮、第三轮、第四轮、第五轮。"
- },
- "z5o0y6": {
-  "file": "z5o0y6.mp3",
-  "dur": 4.36,
-  "text": "发了五轮，每人五个，用了二十个。还剩三个。"
- },
- "7tyhnn": {
-  "file": "7tyhnn.mp3",
-  "dur": 3.0,
-  "text": "再发一轮要四个，可是只剩三个。"
- },
- "145mh80": {
-  "file": "145mh80.mp3",
-  "dur": 2.32,
-  "text": "看看最后这个小朋友，还差几个？"
- },
- "qdwbt8": {
-  "file": "qdwbt8.mp3",
-  "dur": 1.54,
-  "text": "对，只差一个。"
- },
- "1eojxfn": {
-  "file": "1eojxfn.mp3",
-  "dur": 3.08,
-  "text": "我们数一数虚线的空位，只有一个。"
- },
- "1c1yb9f": {
-  "file": "1c1yb9f.mp3",
-  "dur": 7.6,
-  "text": "增加一个，最后一个小朋友也拿到了。每人六个，正好分完。所以，至少增加一个。"
- },
- "7yjcru": {
-  "file": "7yjcru.mp3",
-  "dur": 4.94,
-  "text": "要是拿走呢？把多出来的三个拿走，每人五个，也正好分完。"
- },
- "1nj37gh": {
-  "file": "1nj37gh.mp3",
-  "dur": 4.91,
-  "text": "拿走，看多出来几个；增加，看下一轮还差几个。"
- },
- "12333to": {
-  "file": "12333to.mp3",
-  "dur": 11.02,
-  "text": "不用一个一个分，也有好办法。4的口诀里的得数：4、8、12、16、20、24，都能正好分给四个小朋友。"
- },
- "1rbbwhz": {
-  "file": "1rbbwhz.mp3",
-  "dur": 3.0,
-  "text": "23在20和24中间。"
- },
- "d9lzon": {
-  "file": "d9lzon.mp3",
-  "dur": 4.88,
-  "text": "拿走，往下找：23比20多3，拿走三个。"
- },
- "15fvkon": {
-  "file": "15fvkon.mp3",
-  "dur": 4.65,
-  "text": "增加，往上找：24比23多1，增加一个。"
- },
- "1qj6d9b": {
-  "file": "1qj6d9b.mp3",
-  "dur": 6.27,
-  "text": "记住：拿走往下找，增加往上找，找最近的口诀得数。"
- },
- "1xbzy2": {
-  "file": "1xbzy2.mp3",
-  "dur": 6.95,
-  "text": "轮到你了：三十个苹果，每七个装一袋。至少增加几个，才能正好装完？"
- },
- "dzida": {
-  "file": "dzida.mp3",
-  "dur": 3.71,
-  "text": "提示：想一想7的口诀，30往上找。"
- },
- "1s1ynb4": {
-  "file": "1s1ynb4.mp3",
-  "dur": 11.57,
-  "text": "对，增加五个。7的口诀里，30往上找是35，35比30多5。你用口诀往上找，这个办法很好。"
- },
- "oxke16": {
-  "file": "oxke16.mp3",
-  "dur": 7.78,
-  "text": "再想一想：增加，要往上找。7的口诀里，从30往上，第一个碰到的是几？"
- },
- "t8vj6n": {
-  "file": "t8vj6n.mp3",
-  "dur": 9.8,
-  "text": "我们一起看：7的口诀得数，28、35。30往上找是35，35比30多5，所以增加五个。"
+ "lines": {
+  "1lu6e6bom6m": {
+   "file": "1lu6e6bom6m.mp3",
+   "dur": 1.94,
+   "tts": "没关系，我们分一分看。"
+  },
+  "mp1j623xsz": {
+   "file": "mp1j623xsz.mp3",
+   "dur": 3.29,
+   "tts": "我们先想想：4乘几，会等于36？"
+  },
+  "6ev2vmtxg8": {
+   "file": "6ev2vmtxg8.mp3",
+   "dur": 3.96,
+   "tts": "提示：4的口诀里，哪一句的得数是36？"
+  },
+  "1vaksw6i8mx": {
+   "file": "1vaksw6i8mx.mp3",
+   "dur": 1.78,
+   "tts": "第一轮，每人一颗。"
+  },
+  "1ko39dtwqrz": {
+   "file": "1ko39dtwqrz.mp3",
+   "dur": 8.23,
+   "tts": "对啦。4乘9等于36，所以36除以4等于9。我们看看分出来是什么样子。"
+  },
+  "al36aizou": {
+   "file": "al36aizou.mp3",
+   "dur": 5.81,
+   "tts": "三十六颗糖，平均分给四个小朋友。一人一颗地发，发一轮要用四颗。"
+  },
+  "hon4gw228i": {
+   "file": "hon4gw228i.mp3",
+   "dur": 1.85,
+   "tts": "再发一轮，每人两颗。"
+  },
+  "ijpdkhro1t": {
+   "file": "ijpdkhro1t.mp3",
+   "dur": 2.54,
+   "tts": "就这样，一轮一轮地发……"
+  },
+  "21v5egjwchl": {
+   "file": "21v5egjwchl.mp3",
+   "dur": 4.87,
+   "tts": "已经发了六轮，每人六颗。还剩十二颗，还能再发几轮？"
+  },
+  "uu07uur6fq": {
+   "file": "uu07uur6fq.mp3",
+   "dur": 3.07,
+   "tts": "对啦。再发三轮，每人九颗。"
+  },
+  "21zpzkpn2cz": {
+   "file": "21zpzkpn2cz.mp3",
+   "dur": 3.29,
+   "tts": "我们一轮一轮发发看。点「再发一轮」。"
+  },
+  "1nzjfzvi98l": {
+   "file": "1nzjfzvi98l.mp3",
+   "dur": 2.74,
+   "tts": "发完了。每人九颗，一颗也没剩。"
+  },
+  "1je1fpk404k": {
+   "file": "1je1fpk404k.mp3",
+   "dur": 3.89,
+   "tts": "想不起来时，就先想：4乘几等于36。"
+  },
+  "uskxndz5hp": {
+   "file": "uskxndz5hp.mp3",
+   "dur": 5.23,
+   "tts": "换个办法：用4的口诀跳一跳。从0开始，每次跳四格。"
+  },
+  "1298eo2dvpq": {
+   "file": "1298eo2dvpq.mp3",
+   "dur": 10.8,
+   "tts": "四个小朋友，每人九颗，正好三十六颗。4乘9等于36，所以36除以4等于9。"
+  },
+  "1mdlhbmv84d": {
+   "file": "1mdlhbmv84d.mp3",
+   "dur": 2.35,
+   "tts": "跳到36，一共跳了几次？"
+  },
+  "2c0cffpx8md": {
+   "file": "2c0cffpx8md.mp3",
+   "dur": 4.15,
+   "tts": "对啦。跳了九次，36里面有九个4。"
+  },
+  "1zwndy0mlww": {
+   "file": "1zwndy0mlww.mp3",
+   "dur": 2.3,
+   "tts": "我们数一数：一共跳了九次。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>：一共跳了九次。</speak>"
+  },
+  "xzo75mobdn": {
+   "file": "xzo75mobdn.mp3",
+   "dur": 5.5,
+   "tts": "三十六颗有点多，拆小一点：先分二十颗，再分十六颗。"
+  },
+  "1guwegnk2xs": {
+   "file": "1guwegnk2xs.mp3",
+   "dur": 2.57,
+   "tts": "先分二十颗，每人五颗。"
+  },
+  "2d4en1b1wvx": {
+   "file": "2d4en1b1wvx.mp3",
+   "dur": 2.74,
+   "tts": "再分十六颗，每人又多四颗。"
+  },
+  "iu01xgesw9": {
+   "file": "iu01xgesw9.mp3",
+   "dur": 3.43,
+   "tts": "对啦。5加4等于9，每人九颗。"
+  },
+  "l4jbtsi190": {
+   "file": "l4jbtsi190.mp3",
+   "dur": 2.45,
+   "tts": "5加4，每人一共几颗？"
+  },
+  "110bk7ejuui": {
+   "file": "110bk7ejuui.mp3",
+   "dur": 2.78,
+   "tts": "5加4等于9，每人九颗。"
+  },
+  "imvtw5ezf4": {
+   "file": "imvtw5ezf4.mp3",
+   "dur": 3.91,
+   "tts": "先看简单的：八颗糖，平均分给四个小朋友。"
+  },
+  "rhmobf1tyo": {
+   "file": "rhmobf1tyo.mp3",
+   "dur": 4.08,
+   "tts": "每人两颗，一样多。每人分得一样多，就叫平均分。"
+  },
+  "149kqxoyhle": {
+   "file": "149kqxoyhle.mp3",
+   "dur": 2.14,
+   "tts": "好，现在回到三十六颗糖。"
+  },
+  "le1c646d8n": {
+   "file": "le1c646d8n.mp3",
+   "dur": 4.68,
+   "tts": "这道题和刚才的很像。你来试试：28除以4等于几？"
+  },
+  "wz9ox9xsy2": {
+   "file": "wz9ox9xsy2.mp3",
+   "dur": 2.76,
+   "tts": "提示：4乘几等于28？"
+  },
+  "1unvxgtgcqu": {
+   "file": "1unvxgtgcqu.mp3",
+   "dur": 7.25,
+   "tts": "对啦。你先想到了4乘7等于28，用乘法来想除法，这个办法很好。"
+  },
+  "fg2309ilua": {
+   "file": "fg2309ilua.mp3",
+   "dur": 7.03,
+   "tts": "我们分一分看：二十八颗分给四个人，每人七颗。所以28除以4等于7。"
+  },
+  "1tjwkb6f3ii": {
+   "file": "1tjwkb6f3ii.mp3",
+   "dur": 5.76,
+   "tts": "4、8、12、16、20、24、28、32、36。"
+  },
+  "wud6fr3t7h": {
+   "file": "wud6fr3t7h.mp3",
+   "dur": 5.23,
+   "tts": "4乘8等于32，还不到36。没关系，我们分一分看。"
+  },
+  "1ygp1lmq4ec": {
+   "file": "1ygp1lmq4ec.mp3",
+   "dur": 5.9,
+   "tts": "4乘10等于40，比36多了。没关系，我们分一分看。"
+  },
+  "tiqeqb9efg": {
+   "file": "tiqeqb9efg.mp3",
+   "dur": 3.79,
+   "tts": "4乘6等于24，还不到28。再想一想？"
+  },
+  "1oeowksrs6h": {
+   "file": "1oeowksrs6h.mp3",
+   "dur": 3.74,
+   "tts": "4乘5等于20，还不到28。再想一想？"
+  },
+  "1h6lqjppknt": {
+   "file": "1h6lqjppknt.mp3",
+   "dur": 3.6,
+   "tts": "先看拿走这一空。你填的是三个，填对了。",
+   "ssml": "<speak>先看拿走这一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>。你填的是三个，填对了。</speak>"
+  },
+  "1575bgjlo08": {
+   "file": "1575bgjlo08.mp3",
+   "dur": 4.03,
+   "tts": "4乘8等于32，比28多了。再想一想？"
+  },
+  "1wp6no01fx1": {
+   "file": "1wp6no01fx1.mp3",
+   "dur": 8.69,
+   "tts": "每人分五个，用掉二十个，还多出三个。把多出来的拿走，就正好分完。你知道要看多出来几个，这个想法很好。"
+  },
+  "1vwlon1887q": {
+   "file": "1vwlon1887q.mp3",
+   "dur": 3.53,
+   "tts": "提示：先分一分，看看最后一轮还差几个。"
+  },
+  "1azdyuzjf0x": {
+   "file": "1azdyuzjf0x.mp3",
+   "dur": 2.02,
+   "tts": "没关系，我们一起分一分。"
+  },
+  "201vtvzdqie": {
+   "file": "201vtvzdqie.mp3",
+   "dur": 6.22,
+   "tts": "那增加这一空呢？我们一起想一想：至少增加几个，才能正好分完？",
+   "ssml": "<speak>那增加这一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>呢？我们一起想一想：至少增加几个，才能正好分完？</speak>"
+  },
+  "c0julc4nln": {
+   "file": "c0julc4nln.mp3",
+   "dur": 4.78,
+   "tts": "对，增加一个。我们分一分，看看为什么是一个。"
+  },
+  "xjkh6zy3u4": {
+   "file": "xjkh6zy3u4.mp3",
+   "dur": 2.5,
+   "tts": "我们一起分一分，看看还差几个。"
+  },
+  "2fzv08e2vkn": {
+   "file": "2fzv08e2vkn.mp3",
+   "dur": 4.82,
+   "tts": "就这样一轮一轮发：第二轮、第三轮、第四轮、第五轮。"
+  },
+  "1nd9z8hqwhx": {
+   "file": "1nd9z8hqwhx.mp3",
+   "dur": 5.35,
+   "tts": "我们一个一个发。每个小朋友先发一个，这是第一轮，用了四个。"
+  },
+  "121m3mo3dh9": {
+   "file": "121m3mo3dh9.mp3",
+   "dur": 3.46,
+   "tts": "发了五轮，每人五个，用了二十个。还剩三个。"
+  },
+  "1nwb8xlm7ks": {
+   "file": "1nwb8xlm7ks.mp3",
+   "dur": 3.1,
+   "tts": "再发一轮要四个，可是只剩三个。"
+  },
+  "1czapdam5al": {
+   "file": "1czapdam5al.mp3",
+   "dur": 2.76,
+   "tts": "看看最后这个小朋友，还差几个？"
+  },
+  "282ydq7q8ob": {
+   "file": "282ydq7q8ob.mp3",
+   "dur": 1.49,
+   "tts": "对，只差一个。"
+  },
+  "1muwfw8m8bd": {
+   "file": "1muwfw8m8bd.mp3",
+   "dur": 2.95,
+   "tts": "我们数一数虚线的空位，只有一个。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>虚线的<phoneme alphabet=\"py\" ph=\"kong4 wei4\">空位</phoneme>，只有一个。</speak>"
+  },
+  "23pon409jdt": {
+   "file": "23pon409jdt.mp3",
+   "dur": 6.72,
+   "tts": "增加一个，最后一个小朋友也拿到了。每人六个，正好分完。所以，至少增加一个。"
+  },
+  "9b3urqcj02": {
+   "file": "9b3urqcj02.mp3",
+   "dur": 5.78,
+   "tts": "要是拿走呢？把多出来的三个拿走，每人五个，也正好分完。"
+  },
+  "1q55suguzvd": {
+   "file": "1q55suguzvd.mp3",
+   "dur": 4.61,
+   "tts": "拿走，看多出来几个；增加，看下一轮还差几个。"
+  },
+  "1xvujx7v1x2": {
+   "file": "1xvujx7v1x2.mp3",
+   "dur": 10.85,
+   "tts": "不用一个一个分，也有好办法。4的口诀里的得数：4、8、12、16、20、24，都能正好分给四个小朋友。"
+  },
+  "7xd7rd88my": {
+   "file": "7xd7rd88my.mp3",
+   "dur": 2.74,
+   "tts": "23在20和24中间。"
+  },
+  "datyq0x4oc": {
+   "file": "datyq0x4oc.mp3",
+   "dur": 4.66,
+   "tts": "拿走，往下找：23比20多3，拿走三个。"
+  },
+  "2ed5hrfpj4m": {
+   "file": "2ed5hrfpj4m.mp3",
+   "dur": 5.4,
+   "tts": "增加，往上找：24比23多1，增加一个。"
+  },
+  "1kkrat6jx8l": {
+   "file": "1kkrat6jx8l.mp3",
+   "dur": 6.41,
+   "tts": "轮到你了：三十个苹果，每七个装一袋。至少增加几个，才能正好装完？"
+  },
+  "rl02dq0juy": {
+   "file": "rl02dq0juy.mp3",
+   "dur": 5.69,
+   "tts": "记住：拿走往下找，增加往上找，找最近的口诀得数。"
+  },
+  "nzm7bmgfr5": {
+   "file": "nzm7bmgfr5.mp3",
+   "dur": 3.96,
+   "tts": "提示：想一想7的口诀，30往上找。"
+  },
+  "1n7w82u50cr": {
+   "file": "1n7w82u50cr.mp3",
+   "dur": 9.43,
+   "tts": "对，增加五个。7的口诀里，30往上找是35，35比30多5。你用口诀往上找，这个办法很好。"
+  },
+  "l1bsq1ibyn": {
+   "file": "l1bsq1ibyn.mp3",
+   "dur": 7.46,
+   "tts": "再想一想：增加，要往上找。7的口诀里，从30往上，第一个碰到的是几？"
+  },
+  "2ab7t0u12yy": {
+   "file": "2ab7t0u12yy.mp3",
+   "dur": 3.41,
+   "tts": "我们先想想：6乘几，会等于42？",
+   "seed": 1
+  },
+  "18avwivprzb": {
+   "file": "18avwivprzb.mp3",
+   "dur": 11.69,
+   "tts": "我们一起看：7的口诀得数，28、35。30往上找是35，35比30多5，所以增加五个。"
+  },
+  "nxqnbcizlh": {
+   "file": "nxqnbcizlh.mp3",
+   "dur": 4.54,
+   "tts": "提示：6的口诀里，哪一句的得数是42？"
+  },
+  "hjzb9ftih6": {
+   "file": "hjzb9ftih6.mp3",
+   "dur": 7.75,
+   "tts": "对啦。6乘7等于42，所以42除以6等于7。我们看看分出来是什么样子。"
+  },
+  "b9cvm6b9mm": {
+   "file": "b9cvm6b9mm.mp3",
+   "dur": 4.85,
+   "tts": "已经发了四轮，每人四颗。还剩十八颗，还能再发几轮？"
+  },
+  "zm6130mggq": {
+   "file": "zm6130mggq.mp3",
+   "dur": 5.66,
+   "tts": "四十二颗糖，平均分给六个小朋友。一人一颗地发，发一轮要用六颗。"
+  },
+  "atteheksyv": {
+   "file": "atteheksyv.mp3",
+   "dur": 2.71,
+   "tts": "对啦。再发三轮，每人七颗。"
+  },
+  "1pgrqskt531": {
+   "file": "1pgrqskt531.mp3",
+   "dur": 2.47,
+   "tts": "发完了。每人七颗，一颗也没剩。"
+  },
+  "24iyt7ana5c": {
+   "file": "24iyt7ana5c.mp3",
+   "dur": 3.96,
+   "tts": "想不起来时，就先想：6乘几等于42。"
+  },
+  "25bds07uxh4": {
+   "file": "25bds07uxh4.mp3",
+   "dur": 8.16,
+   "tts": "六个小朋友，每人七颗，正好四十二颗。6乘7等于42，所以42除以6等于7。"
+  },
+  "1opnkufhg8i": {
+   "file": "1opnkufhg8i.mp3",
+   "dur": 5.3,
+   "tts": "换个办法：用6的口诀跳一跳。从0开始，每次跳六格。"
+  },
+  "1jbcbvtr95n": {
+   "file": "1jbcbvtr95n.mp3",
+   "dur": 2.14,
+   "tts": "跳到42，一共跳了几次？"
+  },
+  "ku64luggwo": {
+   "file": "ku64luggwo.mp3",
+   "dur": 3.96,
+   "tts": "对啦。跳了七次，42里面有七个6。"
+  },
+  "1t04bcf0xey": {
+   "file": "1t04bcf0xey.mp3",
+   "dur": 2.45,
+   "tts": "我们数一数：一共跳了七次。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>：一共跳了七次。</speak>"
+  },
+  "11364buql44": {
+   "file": "11364buql44.mp3",
+   "dur": 4.78,
+   "tts": "四十二颗有点多，拆小一点：先分三十颗，再分十二颗。"
+  },
+  "2b3gibphoou": {
+   "file": "2b3gibphoou.mp3",
+   "dur": 2.54,
+   "tts": "先分三十颗，每人五颗。"
+  },
+  "3ezskz8rtw": {
+   "file": "3ezskz8rtw.mp3",
+   "dur": 2.69,
+   "tts": "再分十二颗，每人又多两颗。"
+  },
+  "16pxcxw5rvm": {
+   "file": "16pxcxw5rvm.mp3",
+   "dur": 2.86,
+   "tts": "5加2等于7，每人七颗。"
+  },
+  "20273p65f3r": {
+   "file": "20273p65f3r.mp3",
+   "dur": 2.02,
+   "tts": "5加2，每人一共几颗？"
+  },
+  "8om9segp0l": {
+   "file": "8om9segp0l.mp3",
+   "dur": 3.67,
+   "tts": "对啦。5加2等于7，每人七颗。"
+  },
+  "25iakcgyhj9": {
+   "file": "25iakcgyhj9.mp3",
+   "dur": 2.35,
+   "tts": "好，现在回到四十二颗糖。"
+  },
+  "z4dhowz5ug": {
+   "file": "z4dhowz5ug.mp3",
+   "dur": 2.62,
+   "tts": "提示：6乘几等于30？"
+  },
+  "t6mdncd8gq": {
+   "file": "t6mdncd8gq.mp3",
+   "dur": 5.9,
+   "tts": "这道题和刚才的很像。你来试试：30除以6等于几？"
+  },
+  "10wek41gx2z": {
+   "file": "10wek41gx2z.mp3",
+   "dur": 6.17,
+   "tts": "对啦。你先想到了6乘5等于30，用乘法来想除法，这个办法很好。"
+  },
+  "8wjmto2mki": {
+   "file": "8wjmto2mki.mp3",
+   "dur": 7.3,
+   "tts": "我们分一分看：三十颗分给六个人，每人五颗。所以30除以6等于5。"
+  },
+  "1go1fmbxjk1": {
+   "file": "1go1fmbxjk1.mp3",
+   "dur": 4.61,
+   "tts": "6、12、18、24、30、36、42。"
+  },
+  "cnjmp8wnfw": {
+   "file": "cnjmp8wnfw.mp3",
+   "dur": 5.52,
+   "tts": "6乘6等于36，还不到42。没关系，我们分一分看。"
+  },
+  "10ggu1ln9bf": {
+   "file": "10ggu1ln9bf.mp3",
+   "dur": 4.85,
+   "tts": "6乘8等于48，比42多了。没关系，我们分一分看。"
+  },
+  "ahefqyh4t2": {
+   "file": "ahefqyh4t2.mp3",
+   "dur": 4.32,
+   "tts": "6乘3等于18，还不到30。再想一想？"
+  },
+  "13mvdfvdauv": {
+   "file": "13mvdfvdauv.mp3",
+   "dur": 3.67,
+   "tts": "6乘4等于24，还不到30。再想一想？"
+  },
+  "28rbg03ep7i": {
+   "file": "28rbg03ep7i.mp3",
+   "dur": 3.41,
+   "tts": "6乘6等于36，比30多了。再想一想？"
+  },
+  "duq5h1id3l": {
+   "file": "duq5h1id3l.mp3",
+   "dur": 3.43,
+   "tts": "我们先想想：8乘几，会等于48？"
+  },
+  "g3vivw3x0k": {
+   "file": "g3vivw3x0k.mp3",
+   "dur": 4.25,
+   "tts": "提示：8的口诀里，哪一句的得数是48？"
+  },
+  "16d7w67g82b": {
+   "file": "16d7w67g82b.mp3",
+   "dur": 7.78,
+   "tts": "对啦。8乘6等于48，所以48除以8等于6。我们看看分出来是什么样子。"
+  },
+  "2a4inu8pd3w": {
+   "file": "2a4inu8pd3w.mp3",
+   "dur": 5.21,
+   "tts": "已经发了三轮，每人三颗。还剩二十四颗，还能再发几轮？",
+   "seed": 1
+  },
+  "2ak4zqghet0": {
+   "file": "2ak4zqghet0.mp3",
+   "dur": 7.13,
+   "tts": "四十八颗糖，平均分给八个小朋友。一人一颗地发，发一轮要用八颗。"
+  },
+  "1bwloqoqwst": {
+   "file": "1bwloqoqwst.mp3",
+   "dur": 2.88,
+   "tts": "对啦。再发三轮，每人六颗。"
+  },
+  "13tth27iswt": {
+   "file": "13tth27iswt.mp3",
+   "dur": 4.01,
+   "tts": "想不起来时，就先想：8乘几等于48。"
+  },
+  "svfr1c8igl": {
+   "file": "svfr1c8igl.mp3",
+   "dur": 3.05,
+   "tts": "发完了。每人六颗，一颗也没剩。"
+  },
+  "21n6bl7tgv6": {
+   "file": "21n6bl7tgv6.mp3",
+   "dur": 8.88,
+   "tts": "八个小朋友，每人六颗，正好四十八颗。8乘6等于48，所以48除以8等于6。"
+  },
+  "4751tvalag": {
+   "file": "4751tvalag.mp3",
+   "dur": 5.14,
+   "tts": "换个办法：用8的口诀跳一跳。从0开始，每次跳八格。"
+  },
+  "1v7fltlmiy4": {
+   "file": "1v7fltlmiy4.mp3",
+   "dur": 3.67,
+   "tts": "对啦。跳了六次，48里面有六个8。"
+  },
+  "23fnm8bcbm4": {
+   "file": "23fnm8bcbm4.mp3",
+   "dur": 2.3,
+   "tts": "跳到48，一共跳了几次？"
+  },
+  "znhjhyca9e": {
+   "file": "znhjhyca9e.mp3",
+   "dur": 2.21,
+   "tts": "我们数一数：一共跳了六次。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>：一共跳了六次。</speak>"
+  },
+  "1tu0ctepyxm": {
+   "file": "1tu0ctepyxm.mp3",
+   "dur": 2.4,
+   "tts": "先分四十颗，每人五颗。"
+  },
+  "1kxnj1u2rz8": {
+   "file": "1kxnj1u2rz8.mp3",
+   "dur": 4.9,
+   "tts": "四十八颗有点多，拆小一点：先分四十颗，再分八颗。"
+  },
+  "smf3jfe6eb": {
+   "file": "smf3jfe6eb.mp3",
+   "dur": 2.64,
+   "tts": "再分八颗，每人又多一颗。"
+  },
+  "2ep96xs1u53": {
+   "file": "2ep96xs1u53.mp3",
+   "dur": 2.3,
+   "tts": "5加1，每人一共几颗？"
+  },
+  "5791t72evb": {
+   "file": "5791t72evb.mp3",
+   "dur": 3.5,
+   "tts": "对啦。5加1等于6，每人六颗。"
+  },
+  "1h28cs3ypoe": {
+   "file": "1h28cs3ypoe.mp3",
+   "dur": 2.93,
+   "tts": "5加1等于6，每人六颗。"
+  },
+  "d76idw820g": {
+   "file": "d76idw820g.mp3",
+   "dur": 2.64,
+   "tts": "提示：8乘几等于32？"
+  },
+  "md3mlir2iy": {
+   "file": "md3mlir2iy.mp3",
+   "dur": 2.47,
+   "tts": "好，现在回到四十八颗糖。"
+  },
+  "1k531gdtulx": {
+   "file": "1k531gdtulx.mp3",
+   "dur": 5.28,
+   "tts": "这道题和刚才的很像。你来试试：32除以8等于几？"
+  },
+  "r5l714552m": {
+   "file": "r5l714552m.mp3",
+   "dur": 5.26,
+   "tts": "8、16、24、32、40、48。"
+  },
+  "v0m3p1r420": {
+   "file": "v0m3p1r420.mp3",
+   "dur": 6.82,
+   "tts": "对啦。你先想到了8乘4等于32，用乘法来想除法，这个办法很好。"
+  },
+  "rmrcf735vm": {
+   "file": "rmrcf735vm.mp3",
+   "dur": 6.74,
+   "tts": "我们分一分看：三十二颗分给八个人，每人四颗。所以32除以8等于4。"
+  },
+  "1bqarelu3uw": {
+   "file": "1bqarelu3uw.mp3",
+   "dur": 5.57,
+   "tts": "8乘5等于40，还不到48。没关系，我们分一分看。"
+  },
+  "ydn9yesztx": {
+   "file": "ydn9yesztx.mp3",
+   "dur": 3.74,
+   "tts": "8乘2等于16，还不到32。再想一想？"
+  },
+  "1pgl4wjqxrx": {
+   "file": "1pgl4wjqxrx.mp3",
+   "dur": 5.09,
+   "tts": "8乘7等于56，比48多了。没关系，我们分一分看。"
+  },
+  "13lmdjnu2aa": {
+   "file": "13lmdjnu2aa.mp3",
+   "dur": 3.79,
+   "tts": "8乘3等于24，还不到32。再想一想？"
+  },
+  "jebw8jf34d": {
+   "file": "jebw8jf34d.mp3",
+   "dur": 3.86,
+   "tts": "8乘5等于40，比32多了。再想一想？"
+  },
+  "1krvrv5l8zj": {
+   "file": "1krvrv5l8zj.mp3",
+   "dur": 2.95,
+   "tts": "24除以6等于4，你算对了。"
+  },
+  "ruwpauyf2s": {
+   "file": "ruwpauyf2s.mp3",
+   "dur": 2.71,
+   "tts": "我们用画面看一看，为什么是4。"
+  },
+  "28lo6njpmqg": {
+   "file": "28lo6njpmqg.mp3",
+   "dur": 6.29,
+   "tts": "二十四颗糖，平均分给六个小朋友。一人一颗地发，发一轮要用六颗。"
+  },
+  "aljqmamp12": {
+   "file": "aljqmamp12.mp3",
+   "dur": 5.33,
+   "tts": "已经发了两轮，每人两颗。还剩十二颗，还能再发几轮？"
+  },
+  "188ggxgh7qk": {
+   "file": "188ggxgh7qk.mp3",
+   "dur": 2.76,
+   "tts": "对啦。再发两轮，每人四颗。"
+  },
+  "1u0vfwh32v1": {
+   "file": "1u0vfwh32v1.mp3",
+   "dur": 3.12,
+   "tts": "发完了。每人四颗，一颗也没剩。"
+  },
+  "oimqx8f784": {
+   "file": "oimqx8f784.mp3",
+   "dur": 2.52,
+   "tts": "6、12、18、24。"
+  },
+  "1h4fcpkvi50": {
+   "file": "1h4fcpkvi50.mp3",
+   "dur": 2.4,
+   "tts": "我们数一数：一共跳了四次。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>：一共跳了四次。</speak>"
+  },
+  "1k5h0s1xuv6": {
+   "file": "1k5h0s1xuv6.mp3",
+   "dur": 2.4,
+   "tts": "跳到24，一共跳了几次？"
+  },
+  "1vhwtn7eez9": {
+   "file": "1vhwtn7eez9.mp3",
+   "dur": 3.53,
+   "tts": "对啦。跳了四次，24里面有四个6。"
+  },
+  "1yityshllew": {
+   "file": "1yityshllew.mp3",
+   "dur": 5.54,
+   "tts": "二十四颗有点多，拆小一点：先分十二颗，再分十二颗。"
+  },
+  "buu0na1ixn": {
+   "file": "buu0na1ixn.mp3",
+   "dur": 2.4,
+   "tts": "先分十二颗，每人两颗。"
+  },
+  "25hn9skf7dx": {
+   "file": "25hn9skf7dx.mp3",
+   "dur": 2.09,
+   "tts": "2加2，每人一共几颗？"
+  },
+  "1ocrq1bieq5": {
+   "file": "1ocrq1bieq5.mp3",
+   "dur": 2.14,
+   "tts": "2加2等于4，每人四颗。"
+  },
+  "1ef6j367j9y": {
+   "file": "1ef6j367j9y.mp3",
+   "dur": 1.9,
+   "tts": "好，现在回到二十四颗糖。"
+  },
+  "2b5sfizlmmx": {
+   "file": "2b5sfizlmmx.mp3",
+   "dur": 3.58,
+   "tts": "对啦。2加2等于4，每人四颗。"
+  },
+  "268i8376zpp": {
+   "file": "268i8376zpp.mp3",
+   "dur": 3.89,
+   "tts": "想不起来时，就先想：6乘几等于24。"
+  },
+  "17blhbqanj6": {
+   "file": "17blhbqanj6.mp3",
+   "dur": 5.69,
+   "tts": "这道题和刚才的很像。你来试试：36除以6等于几？"
+  },
+  "19smij5ybnq": {
+   "file": "19smij5ybnq.mp3",
+   "dur": 8.33,
+   "tts": "六个小朋友，每人四颗，正好二十四颗。6乘4等于24，所以24除以6等于4。"
+  },
+  "202bep9l7gm": {
+   "file": "202bep9l7gm.mp3",
+   "dur": 2.81,
+   "tts": "提示：6乘几等于36？"
+  },
+  "174po17sv7l": {
+   "file": "174po17sv7l.mp3",
+   "dur": 4.7,
+   "tts": "6乘5等于30，还不到36。再想一想？"
+  },
+  "1rp3o5sxfo2": {
+   "file": "1rp3o5sxfo2.mp3",
+   "dur": 7.01,
+   "tts": "对啦。你先想到了6乘6等于36，用乘法来想除法，这个办法很好。"
+  },
+  "6jcu6pctpp": {
+   "file": "6jcu6pctpp.mp3",
+   "dur": 3.91,
+   "tts": "6乘4等于24，还不到36。再想一想？"
+  },
+  "17dm73pebik": {
+   "file": "17dm73pebik.mp3",
+   "dur": 4.42,
+   "tts": "6乘7等于42，比36多了。再想一想？"
+  },
+  "27n3pqn24ly": {
+   "file": "27n3pqn24ly.mp3",
+   "dur": 4.58,
+   "tts": "我们先看清楚题目里的数：是34除以4。"
+  },
+  "7ub830ttpb": {
+   "file": "7ub830ttpb.mp3",
+   "dur": 7.18,
+   "tts": "我们分一分看：三十六颗分给六个人，每人六颗。所以36除以6等于6。"
+  },
+  "1u7zyuztge4": {
+   "file": "1u7zyuztge4.mp3",
+   "dur": 4.92,
+   "tts": "三十四个，平均分给四个小朋友，每人最多能分几个？"
+  },
+  "nx0fommg2y": {
+   "file": "nx0fommg2y.mp3",
+   "dur": 2.14,
+   "tts": "没关系，我们一起分一分看。"
+  },
+  "ajrgs5njyy": {
+   "file": "ajrgs5njyy.mp3",
+   "dur": 6.94,
+   "tts": "提示：4的口诀里，哪一句的得数最接近34，又不超过34？"
+  },
+  "vwsnkzrdk0": {
+   "file": "vwsnkzrdk0.mp3",
+   "dur": 3.96,
+   "tts": "对，每人八个。我们分一分，看看还剩几个。"
+  },
+  "1izn4hr3mg9": {
+   "file": "1izn4hr3mg9.mp3",
+   "dur": 3.43,
+   "tts": "发了八轮，每人八个，用了三十二个。"
+  },
+  "1igqxkkyd9e": {
+   "file": "1igqxkkyd9e.mp3",
+   "dur": 6.53,
+   "tts": "三十四个橘子，平均分给四个小朋友。一人一个地发，发一轮要用四个。"
+  },
+  "1tfie6clpfc": {
+   "file": "1tfie6clpfc.mp3",
+   "dur": 3.07,
+   "tts": "再发一轮要四个，可是剩下的不够了。"
+  },
+  "mvbgru66tb": {
+   "file": "mvbgru66tb.mp3",
+   "dur": 0.94,
+   "tts": "还剩几个？"
+  },
+  "25hp9edwn0w": {
+   "file": "25hp9edwn0w.mp3",
+   "dur": 3.24,
+   "tts": "对，还剩两个。分不完、剩下的数，就叫余数。"
+  },
+  "2dzrtyfppau": {
+   "file": "2dzrtyfppau.mp3",
+   "dur": 5.28,
+   "tts": "我们数一数圈里的：还剩两个。分不完、剩下的数，就叫余数。",
+   "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>圈里的：还剩两个。分不完、剩下的数，就叫余数。</speak>"
+  },
+  "nr72tei4lq": {
+   "file": "nr72tei4lq.mp3",
+   "dur": 5.38,
+   "tts": "所以34除以4等于8余2：每人八个，还剩两个。"
+  },
+  "11isx1cq8e5": {
+   "file": "11isx1cq8e5.mp3",
+   "dur": 6.67,
+   "tts": "验算：4乘8等于32，再加上剩下的两个，正好是34。"
+  },
+  "2a3kwv6fb5s": {
+   "file": "2a3kwv6fb5s.mp3",
+   "dur": 4.13,
+   "tts": "轮到你了：25除以4，每人最多能分几个？"
+  },
+  "252h05du3f6": {
+   "file": "252h05du3f6.mp3",
+   "dur": 4.9,
+   "tts": "记住：余数要比除数小。剩下的够四个，就还能再分一轮。"
+  },
+  "axnzmgmrer": {
+   "file": "axnzmgmrer.mp3",
+   "dur": 5.45,
+   "tts": "提示：4的口诀里，最接近25、又不超过25的得数是几？"
+  },
+  "qhwq2ge448": {
+   "file": "qhwq2ge448.mp3",
+   "dur": 1.27,
+   "tts": "对，每人分六个。"
+  },
+  "4dmayl232z": {
+   "file": "4dmayl232z.mp3",
+   "dur": 4.9,
+   "tts": "4乘4等于16，还剩九个，还够再分。再想一想？"
+  },
+  "wxlkxjnxk0": {
+   "file": "wxlkxjnxk0.mp3",
+   "dur": 4.63,
+   "tts": "4乘5等于20，还剩五个，还够再分。再想一想？"
+  },
+  "fpquajwj0a": {
+   "file": "fpquajwj0a.mp3",
+   "dur": 3.79,
+   "tts": "4乘7等于28，比25多了。再想一想？"
+  },
+  "2fyrp44shk5": {
+   "file": "2fyrp44shk5.mp3",
+   "dur": 4.8,
+   "tts": "再问一个：25除以4，每人分六个，还剩几个？"
+  },
+  "1ofvpwohcyj": {
+   "file": "1ofvpwohcyj.mp3",
+   "dur": 6.34,
+   "tts": "对，还剩一个。4乘6等于24，25比24多1。"
+  },
+  "1zegzc4gt5f": {
+   "file": "1zegzc4gt5f.mp3",
+   "dur": 5.26,
+   "tts": "提示：4乘6等于24，25比24多几个？"
+  },
+  "1g46uk44vdj": {
+   "file": "1g46uk44vdj.mp3",
+   "dur": 5.42,
+   "tts": "4乘6等于24，25比24多几个？再想一想。"
+  },
+  "k90529wqpv": {
+   "file": "k90529wqpv.mp3",
+   "dur": 3.84,
+   "tts": "商写的是8，想对了：每人八个。"
+  },
+  "wkxszg9z27": {
+   "file": "wkxszg9z27.mp3",
+   "dur": 5.69,
+   "tts": "我们分一分：二十五个分给四个小朋友，每人六个，还剩一个。"
+  },
+  "wzm71xty1a": {
+   "file": "wzm71xty1a.mp3",
+   "dur": 3.55,
+   "tts": "那每人八个分完以后，还剩几个呢？"
+  },
+  "hucb38ssnt": {
+   "file": "hucb38ssnt.mp3",
+   "dur": 2.83,
+   "tts": "对，还剩两个。我们分一分，看个清楚。"
+  },
+  "2364rvo9uot": {
+   "file": "2364rvo9uot.mp3",
+   "dur": 5.62,
+   "tts": "提示：4乘8等于32，34比32多几个？"
+  },
+  "qh32qmwpbl": {
+   "file": "qh32qmwpbl.mp3",
+   "dur": 4.8,
+   "tts": "轮到你了：25除以4，每人分六个，还剩几个？"
+  },
+  "hs68gi7w2b": {
+   "file": "hs68gi7w2b.mp3",
+   "dur": 2.69,
+   "tts": "我们一起分一分，看看还剩几个。"
+  },
+  "vkov29v6we": {
+   "file": "vkov29v6we.mp3",
+   "dur": 3.05,
+   "tts": "那每人九颗分完以后，还剩几颗？"
+  },
+  "jgezcga2c9": {
+   "file": "jgezcga2c9.mp3",
+   "dur": 5.14,
+   "tts": "商写的是9，想对了：4乘9等于36，每人九颗。"
+  },
+  "1omcwu9u29r": {
+   "file": "1omcwu9u29r.mp3",
+   "dur": 4.9,
+   "tts": "提示：4乘9等于36，三十六颗分完还剩几颗？"
+  },
+  "itgnhg6ygp": {
+   "file": "itgnhg6ygp.mp3",
+   "dur": 2.83,
+   "tts": "我们一起分一分，看看还剩几颗。"
+  },
+  "7awnoxh0q4": {
+   "file": "7awnoxh0q4.mp3",
+   "dur": 5.45,
+   "tts": "对，一颗也不剩，正好分完。正好分完的除法，不用写余数。"
+  },
+  "2cgps7itkrf": {
+   "file": "2cgps7itkrf.mp3",
+   "dur": 6.53,
+   "tts": "正好分完，一颗也不剩，所以36除以4等于9，不用写余数。"
+  },
+  "hlkdhbspxz": {
+   "file": "hlkdhbspxz.mp3",
+   "dur": 4.73,
+   "tts": "再问一个：28除以4，每人分七颗，还剩几颗？"
+  },
+  "1clxus736gt": {
+   "file": "1clxus736gt.mp3",
+   "dur": 4.13,
+   "tts": "4乘7等于28，分完还剩几颗？再想一想。"
+  },
+  "2gkfzsz3tt9": {
+   "file": "2gkfzsz3tt9.mp3",
+   "dur": 5.52,
+   "tts": "提示：4乘7等于28，二十八颗分完还剩几颗？"
+  },
+  "1wnjxt1ung": {
+   "file": "1wnjxt1ung.mp3",
+   "dur": 5.95,
+   "tts": "轮到你了：三十个苹果，每四个装一袋。至少增加几个，才能正好装完？"
+  },
+  "o1nxxwp8jn": {
+   "file": "o1nxxwp8jn.mp3",
+   "dur": 3.72,
+   "tts": "提示：想一想4的口诀，30往上找。"
+  },
+  "1i4tey969n7": {
+   "file": "1i4tey969n7.mp3",
+   "dur": 11.93,
+   "tts": "对，增加两个。4的口诀里，30往上找是32，32比30多2。你用口诀往上找，这个办法很好。"
+  },
+  "2471mo811ex": {
+   "file": "2471mo811ex.mp3",
+   "dur": 6.34,
+   "tts": "再想一想：增加，要往上找。4的口诀里，从30往上，第一个碰到的是几？",
+   "seed": 7
+  },
+  "1ra7rk4ilr2": {
+   "file": "1ra7rk4ilr2.mp3",
+   "dur": 9.94,
+   "tts": "我们一起看：4的口诀得数，28、32。30往上找是32，32比30多2，所以增加两个。"
+  },
+  "21mg2dxyxx3": {
+   "file": "21mg2dxyxx3.mp3",
+   "dur": 3.89,
+   "tts": "先看增加这一空。你填的是一个，填对了。",
+   "ssml": "<speak>先看增加这一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>。你填的是一个，填对了。</speak>"
+  },
+  "11k8xaotzc2": {
+   "file": "11k8xaotzc2.mp3",
+   "dur": 12.17,
+   "tts": "每人分五个，还剩三个；再发一轮要四个，还差一个。增加一个，就正好分完。你知道要看下一轮还差几个，这个想法很好。"
+  },
+  "15rj9w91wax": {
+   "file": "15rj9w91wax.mp3",
+   "dur": 5.02,
+   "tts": "那拿走这一空呢？我们一起想一想：至少拿走几个，才能正好分完？",
+   "ssml": "<speak>那拿走这一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>呢？我们一起想一想：至少拿走几个，才能正好分完？</speak>",
+   "seed": 7
+  },
+  "w3sgz7ra41": {
+   "file": "w3sgz7ra41.mp3",
+   "dur": 4.06,
+   "tts": "提示：先分一分，看看分到最后，还多出来几个。"
+  },
+  "weh822e89r": {
+   "file": "weh822e89r.mp3",
+   "dur": 2.93,
+   "tts": "我们一起分一分，看看多出来几个。"
+  },
+  "xfzs9ng1rs": {
+   "file": "xfzs9ng1rs.mp3",
+   "dur": 4.3,
+   "tts": "对，拿走三个。我们分一分，看看为什么是三个。"
+  },
+  "ke4vxvz2d": {
+   "file": "ke4vxvz2d.mp3",
+   "dur": 6.29,
+   "tts": "轮到你了：三十个苹果，每四个装一袋。至少拿走几个，才能正好装完？"
+  },
+  "1rchvt0txim": {
+   "file": "1rchvt0txim.mp3",
+   "dur": 3.67,
+   "tts": "提示：想一想4的口诀，30往下找。"
+  },
+  "7s5exrv0jf": {
+   "file": "7s5exrv0jf.mp3",
+   "dur": 9.34,
+   "tts": "对，拿走两个。4的口诀里，30往下找是28，30比28多2。你用口诀往下找，这个办法很好。"
+  },
+  "24q7lzycn8b": {
+   "file": "24q7lzycn8b.mp3",
+   "dur": 7.46,
+   "tts": "再想一想：拿走，要往下找。4的口诀里，从30往下，第一个碰到的是几？"
+  },
+  "1bx3uvgsl4i": {
+   "file": "1bx3uvgsl4i.mp3",
+   "dur": 2.86,
+   "tts": "这道题有两空，你都认真填上了。",
+   "ssml": "<speak>这道题有两<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>，你都认真填上了。</speak>"
+  },
+  "jjx70hyrg8": {
+   "file": "jjx70hyrg8.mp3",
+   "dur": 9.86,
+   "tts": "我们一起看：4的口诀得数，28、32。30往下找是28，30比28多2，所以拿走两个。"
+  },
+  "24g9lu8efyx": {
+   "file": "24g9lu8efyx.mp3",
+   "dur": 3.0,
+   "tts": "我们一空一空来，先用分一分把它看清楚。",
+   "ssml": "<speak>我们一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>来，先用分一分把它看清楚。</speak>"
+  }
  }
 }
