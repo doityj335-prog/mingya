@@ -24,48 +24,34 @@
   },
   "1vaksw6i8mx": {
    "file": "1vaksw6i8mx.mp3",
-   "dur": 1.78,
-   "tts": "第一轮，每人一颗。"
-  },
-  "1ko39dtwqrz": {
-   "file": "1ko39dtwqrz.mp3",
-   "dur": 8.23,
-   "tts": "对啦。4乘9等于36，所以36除以4等于9。我们看看分出来是什么样子。"
-  },
-  "al36aizou": {
-   "file": "al36aizou.mp3",
-   "dur": 5.81,
-   "tts": "三十六颗糖，平均分给四个小朋友。一人一颗地发，发一轮要用四颗。"
+   "dur": 1.9,
+   "tts": "第一轮，每人一颗。",
+   "ssml": "<speak>第一轮，每人一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "hon4gw228i": {
    "file": "hon4gw228i.mp3",
-   "dur": 1.85,
-   "tts": "再发一轮，每人两颗。"
-  },
-  "ijpdkhro1t": {
-   "file": "ijpdkhro1t.mp3",
-   "dur": 2.54,
-   "tts": "就这样，一轮一轮地发……"
+   "dur": 2.04,
+   "tts": "再发一轮，每人两颗。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮，每人两<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "21v5egjwchl": {
    "file": "21v5egjwchl.mp3",
-   "dur": 4.87,
-   "tts": "已经发了六轮，每人六颗。还剩十二颗，还能再发几轮？"
-  },
-  "uu07uur6fq": {
-   "file": "uu07uur6fq.mp3",
-   "dur": 3.07,
-   "tts": "对啦。再发三轮，每人九颗。"
+   "dur": 5.06,
+   "tts": "已经发了六轮，每人六颗。还剩十二颗，还能再发几轮？",
+   "ssml": "<speak>已经<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了六轮，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。还剩十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，还能再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>几轮？</speak>"
   },
   "21zpzkpn2cz": {
    "file": "21zpzkpn2cz.mp3",
    "dur": 3.29,
-   "tts": "我们一轮一轮发发看。点「再发一轮」。"
+   "tts": "我们一轮一轮发发看。点「再发一轮」。",
+   "ssml": "<speak>我们一轮一轮<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>看。点「再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮」。</speak>",
+   "seed": 1
   },
   "1nzjfzvi98l": {
    "file": "1nzjfzvi98l.mp3",
-   "dur": 2.74,
-   "tts": "发完了。每人九颗，一颗也没剩。"
+   "dur": 2.9,
+   "tts": "发完了。每人九颗，一颗也没剩。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>完了。每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也没剩。</speak>"
   },
   "1je1fpk404k": {
    "file": "1je1fpk404k.mp3",
@@ -79,18 +65,14 @@
   },
   "1298eo2dvpq": {
    "file": "1298eo2dvpq.mp3",
-   "dur": 10.8,
-   "tts": "四个小朋友，每人九颗，正好三十六颗。4乘9等于36，所以36除以4等于9。"
+   "dur": 8.26,
+   "tts": "四个小朋友，每人九颗，正好三十六颗。4乘9等于36，所以36除以4等于9。",
+   "ssml": "<speak>四个小朋友，每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，正好三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。4乘9等于36，所以36除以4等于9。</speak>"
   },
   "1mdlhbmv84d": {
    "file": "1mdlhbmv84d.mp3",
    "dur": 2.35,
    "tts": "跳到36，一共跳了几次？"
-  },
-  "2c0cffpx8md": {
-   "file": "2c0cffpx8md.mp3",
-   "dur": 4.15,
-   "tts": "对啦。跳了九次，36里面有九个4。"
   },
   "1zwndy0mlww": {
    "file": "1zwndy0mlww.mp3",
@@ -100,48 +82,39 @@
   },
   "xzo75mobdn": {
    "file": "xzo75mobdn.mp3",
-   "dur": 5.5,
-   "tts": "三十六颗有点多，拆小一点：先分二十颗，再分十六颗。"
-  },
-  "1guwegnk2xs": {
-   "file": "1guwegnk2xs.mp3",
-   "dur": 2.57,
-   "tts": "先分二十颗，每人五颗。"
-  },
-  "2d4en1b1wvx": {
-   "file": "2d4en1b1wvx.mp3",
-   "dur": 2.74,
-   "tts": "再分十六颗，每人又多四颗。"
-  },
-  "iu01xgesw9": {
-   "file": "iu01xgesw9.mp3",
-   "dur": 3.43,
-   "tts": "对啦。5加4等于9，每人九颗。"
+   "dur": 5.86,
+   "tts": "三十六颗有点多，拆小一点：先分二十颗，再分十六颗。",
+   "ssml": "<speak>三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>有点多，拆小一点：先分二十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，再分十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "l4jbtsi190": {
    "file": "l4jbtsi190.mp3",
-   "dur": 2.45,
-   "tts": "5加4，每人一共几颗？"
+   "dur": 2.23,
+   "tts": "5加4，每人一共几颗？",
+   "ssml": "<speak>5加4，每人一共几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "110bk7ejuui": {
    "file": "110bk7ejuui.mp3",
-   "dur": 2.78,
-   "tts": "5加4等于9，每人九颗。"
+   "dur": 2.64,
+   "tts": "5加4等于9，每人九颗。",
+   "ssml": "<speak>5加4等于9，每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "imvtw5ezf4": {
    "file": "imvtw5ezf4.mp3",
-   "dur": 3.91,
-   "tts": "先看简单的：八颗糖，平均分给四个小朋友。"
+   "dur": 3.65,
+   "tts": "先看简单的：八颗糖，平均分给四个小朋友。",
+   "ssml": "<speak>先看简单的：八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖，平均分给四个小朋友。</speak>"
   },
   "rhmobf1tyo": {
    "file": "rhmobf1tyo.mp3",
-   "dur": 4.08,
-   "tts": "每人两颗，一样多。每人分得一样多，就叫平均分。"
+   "dur": 4.82,
+   "tts": "每人两颗，一样多。每人分得一样多，就叫平均分。",
+   "ssml": "<speak>每人两<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，一样多。每人分得一样多，就叫平均分。</speak>"
   },
   "149kqxoyhle": {
    "file": "149kqxoyhle.mp3",
-   "dur": 2.14,
-   "tts": "好，现在回到三十六颗糖。"
+   "dur": 2.76,
+   "tts": "好，现在回到三十六颗糖。",
+   "ssml": "<speak>好，现在回到三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖。</speak>"
   },
   "le1c646d8n": {
    "file": "le1c646d8n.mp3",
@@ -152,16 +125,6 @@
    "file": "wz9ox9xsy2.mp3",
    "dur": 2.76,
    "tts": "提示：4乘几等于28？"
-  },
-  "1unvxgtgcqu": {
-   "file": "1unvxgtgcqu.mp3",
-   "dur": 7.25,
-   "tts": "对啦。你先想到了4乘7等于28，用乘法来想除法，这个办法很好。"
-  },
-  "fg2309ilua": {
-   "file": "fg2309ilua.mp3",
-   "dur": 7.03,
-   "tts": "我们分一分看：二十八颗分给四个人，每人七颗。所以28除以4等于7。"
   },
   "1tjwkb6f3ii": {
    "file": "1tjwkb6f3ii.mp3",
@@ -220,11 +183,6 @@
    "tts": "那增加这一空呢？我们一起想一想：至少增加几个，才能正好分完？",
    "ssml": "<speak>那增加这一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>呢？我们一起想一想：至少增加几个，才能正好分完？</speak>"
   },
-  "c0julc4nln": {
-   "file": "c0julc4nln.mp3",
-   "dur": 4.78,
-   "tts": "对，增加一个。我们分一分，看看为什么是一个。"
-  },
   "xjkh6zy3u4": {
    "file": "xjkh6zy3u4.mp3",
    "dur": 2.5,
@@ -232,33 +190,32 @@
   },
   "2fzv08e2vkn": {
    "file": "2fzv08e2vkn.mp3",
-   "dur": 4.82,
-   "tts": "就这样一轮一轮发：第二轮、第三轮、第四轮、第五轮。"
+   "dur": 5.3,
+   "tts": "就这样一轮一轮发：第二轮、第三轮、第四轮、第五轮。",
+   "ssml": "<speak>就这样一轮一轮<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>：第二轮、第三轮、第四轮、第五轮。</speak>"
   },
   "1nd9z8hqwhx": {
    "file": "1nd9z8hqwhx.mp3",
-   "dur": 5.35,
-   "tts": "我们一个一个发。每个小朋友先发一个，这是第一轮，用了四个。"
+   "dur": 5.42,
+   "tts": "我们一个一个发。每个小朋友先发一个，这是第一轮，用了四个。",
+   "ssml": "<speak>我们一个一个<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>。每个小朋友先<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一个，这是第一轮，用了四个。</speak>"
   },
   "121m3mo3dh9": {
    "file": "121m3mo3dh9.mp3",
-   "dur": 3.46,
-   "tts": "发了五轮，每人五个，用了二十个。还剩三个。"
+   "dur": 3.89,
+   "tts": "发了五轮，每人五个，用了二十个。还剩三个。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了五轮，每人五个，用了二十个。还剩三个。</speak>"
   },
   "1nwb8xlm7ks": {
    "file": "1nwb8xlm7ks.mp3",
-   "dur": 3.1,
-   "tts": "再发一轮要四个，可是只剩三个。"
+   "dur": 3.19,
+   "tts": "再发一轮要四个，可是只剩三个。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要四个，可是只剩三个。</speak>"
   },
   "1czapdam5al": {
    "file": "1czapdam5al.mp3",
    "dur": 2.76,
    "tts": "看看最后这个小朋友，还差几个？"
-  },
-  "282ydq7q8ob": {
-   "file": "282ydq7q8ob.mp3",
-   "dur": 1.49,
-   "tts": "对，只差一个。"
   },
   "1muwfw8m8bd": {
    "file": "1muwfw8m8bd.mp3",
@@ -316,11 +273,6 @@
    "dur": 3.96,
    "tts": "提示：想一想7的口诀，30往上找。"
   },
-  "1n7w82u50cr": {
-   "file": "1n7w82u50cr.mp3",
-   "dur": 9.43,
-   "tts": "对，增加五个。7的口诀里，30往上找是35，35比30多5。你用口诀往上找，这个办法很好。"
-  },
   "l1bsq1ibyn": {
    "file": "l1bsq1ibyn.mp3",
    "dur": 7.46,
@@ -342,30 +294,17 @@
    "dur": 4.54,
    "tts": "提示：6的口诀里，哪一句的得数是42？"
   },
-  "hjzb9ftih6": {
-   "file": "hjzb9ftih6.mp3",
-   "dur": 7.75,
-   "tts": "对啦。6乘7等于42，所以42除以6等于7。我们看看分出来是什么样子。"
-  },
   "b9cvm6b9mm": {
    "file": "b9cvm6b9mm.mp3",
-   "dur": 4.85,
-   "tts": "已经发了四轮，每人四颗。还剩十八颗，还能再发几轮？"
-  },
-  "zm6130mggq": {
-   "file": "zm6130mggq.mp3",
-   "dur": 5.66,
-   "tts": "四十二颗糖，平均分给六个小朋友。一人一颗地发，发一轮要用六颗。"
-  },
-  "atteheksyv": {
-   "file": "atteheksyv.mp3",
-   "dur": 2.71,
-   "tts": "对啦。再发三轮，每人七颗。"
+   "dur": 5.14,
+   "tts": "已经发了四轮，每人四颗。还剩十八颗，还能再发几轮？",
+   "ssml": "<speak>已经<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了四轮，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。还剩十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，还能再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>几轮？</speak>"
   },
   "1pgrqskt531": {
    "file": "1pgrqskt531.mp3",
-   "dur": 2.47,
-   "tts": "发完了。每人七颗，一颗也没剩。"
+   "dur": 3.31,
+   "tts": "发完了。每人七颗，一颗也没剩。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>完了。每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也没剩。</speak>"
   },
   "24iyt7ana5c": {
    "file": "24iyt7ana5c.mp3",
@@ -374,8 +313,9 @@
   },
   "25bds07uxh4": {
    "file": "25bds07uxh4.mp3",
-   "dur": 8.16,
-   "tts": "六个小朋友，每人七颗，正好四十二颗。6乘7等于42，所以42除以6等于7。"
+   "dur": 9.77,
+   "tts": "六个小朋友，每人七颗，正好四十二颗。6乘7等于42，所以42除以6等于7。",
+   "ssml": "<speak>六个小朋友，每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，正好四十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。6乘7等于42，所以42除以6等于7。</speak>"
   },
   "1opnkufhg8i": {
    "file": "1opnkufhg8i.mp3",
@@ -387,11 +327,6 @@
    "dur": 2.14,
    "tts": "跳到42，一共跳了几次？"
   },
-  "ku64luggwo": {
-   "file": "ku64luggwo.mp3",
-   "dur": 3.96,
-   "tts": "对啦。跳了七次，42里面有七个6。"
-  },
   "1t04bcf0xey": {
    "file": "1t04bcf0xey.mp3",
    "dur": 2.45,
@@ -400,38 +335,27 @@
   },
   "11364buql44": {
    "file": "11364buql44.mp3",
-   "dur": 4.78,
-   "tts": "四十二颗有点多，拆小一点：先分三十颗，再分十二颗。"
-  },
-  "2b3gibphoou": {
-   "file": "2b3gibphoou.mp3",
-   "dur": 2.54,
-   "tts": "先分三十颗，每人五颗。"
-  },
-  "3ezskz8rtw": {
-   "file": "3ezskz8rtw.mp3",
-   "dur": 2.69,
-   "tts": "再分十二颗，每人又多两颗。"
+   "dur": 5.52,
+   "tts": "四十二颗有点多，拆小一点：先分三十颗，再分十二颗。",
+   "ssml": "<speak>四十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>有点多，拆小一点：先分三十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，再分十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "16pxcxw5rvm": {
    "file": "16pxcxw5rvm.mp3",
-   "dur": 2.86,
-   "tts": "5加2等于7，每人七颗。"
+   "dur": 2.47,
+   "tts": "5加2等于7，每人七颗。",
+   "ssml": "<speak>5加2等于7，每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "20273p65f3r": {
    "file": "20273p65f3r.mp3",
-   "dur": 2.02,
-   "tts": "5加2，每人一共几颗？"
-  },
-  "8om9segp0l": {
-   "file": "8om9segp0l.mp3",
-   "dur": 3.67,
-   "tts": "对啦。5加2等于7，每人七颗。"
+   "dur": 2.83,
+   "tts": "5加2，每人一共几颗？",
+   "ssml": "<speak>5加2，每人一共几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "25iakcgyhj9": {
    "file": "25iakcgyhj9.mp3",
-   "dur": 2.35,
-   "tts": "好，现在回到四十二颗糖。"
+   "dur": 2.4,
+   "tts": "好，现在回到四十二颗糖。",
+   "ssml": "<speak>好，现在回到四十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖。</speak>"
   },
   "z4dhowz5ug": {
    "file": "z4dhowz5ug.mp3",
@@ -442,16 +366,6 @@
    "file": "t6mdncd8gq.mp3",
    "dur": 5.9,
    "tts": "这道题和刚才的很像。你来试试：30除以6等于几？"
-  },
-  "10wek41gx2z": {
-   "file": "10wek41gx2z.mp3",
-   "dur": 6.17,
-   "tts": "对啦。你先想到了6乘5等于30，用乘法来想除法，这个办法很好。"
-  },
-  "8wjmto2mki": {
-   "file": "8wjmto2mki.mp3",
-   "dur": 7.3,
-   "tts": "我们分一分看：三十颗分给六个人，每人五颗。所以30除以6等于5。"
   },
   "1go1fmbxjk1": {
    "file": "1go1fmbxjk1.mp3",
@@ -493,26 +407,11 @@
    "dur": 4.25,
    "tts": "提示：8的口诀里，哪一句的得数是48？"
   },
-  "16d7w67g82b": {
-   "file": "16d7w67g82b.mp3",
-   "dur": 7.78,
-   "tts": "对啦。8乘6等于48，所以48除以8等于6。我们看看分出来是什么样子。"
-  },
   "2a4inu8pd3w": {
    "file": "2a4inu8pd3w.mp3",
-   "dur": 5.21,
+   "dur": 4.99,
    "tts": "已经发了三轮，每人三颗。还剩二十四颗，还能再发几轮？",
-   "seed": 1
-  },
-  "2ak4zqghet0": {
-   "file": "2ak4zqghet0.mp3",
-   "dur": 7.13,
-   "tts": "四十八颗糖，平均分给八个小朋友。一人一颗地发，发一轮要用八颗。"
-  },
-  "1bwloqoqwst": {
-   "file": "1bwloqoqwst.mp3",
-   "dur": 2.88,
-   "tts": "对啦。再发三轮，每人六颗。"
+   "ssml": "<speak>已经<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了三轮，每人三<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。还剩二十四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，还能再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>几轮？</speak>"
   },
   "13tth27iswt": {
    "file": "13tth27iswt.mp3",
@@ -521,23 +420,20 @@
   },
   "svfr1c8igl": {
    "file": "svfr1c8igl.mp3",
-   "dur": 3.05,
-   "tts": "发完了。每人六颗，一颗也没剩。"
+   "dur": 2.95,
+   "tts": "发完了。每人六颗，一颗也没剩。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>完了。每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也没剩。</speak>"
   },
   "21n6bl7tgv6": {
    "file": "21n6bl7tgv6.mp3",
-   "dur": 8.88,
-   "tts": "八个小朋友，每人六颗，正好四十八颗。8乘6等于48，所以48除以8等于6。"
+   "dur": 9.17,
+   "tts": "八个小朋友，每人六颗，正好四十八颗。8乘6等于48，所以48除以8等于6。",
+   "ssml": "<speak>八个小朋友，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，正好四十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。8乘6等于48，所以48除以8等于6。</speak>"
   },
   "4751tvalag": {
    "file": "4751tvalag.mp3",
    "dur": 5.14,
    "tts": "换个办法：用8的口诀跳一跳。从0开始，每次跳八格。"
-  },
-  "1v7fltlmiy4": {
-   "file": "1v7fltlmiy4.mp3",
-   "dur": 3.67,
-   "tts": "对啦。跳了六次，48里面有六个8。"
   },
   "23fnm8bcbm4": {
    "file": "23fnm8bcbm4.mp3",
@@ -550,35 +446,23 @@
    "tts": "我们数一数：一共跳了六次。",
    "ssml": "<speak>我们<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>一<phoneme alphabet=\"py\" ph=\"shu3\">数</phoneme>：一共跳了六次。</speak>"
   },
-  "1tu0ctepyxm": {
-   "file": "1tu0ctepyxm.mp3",
-   "dur": 2.4,
-   "tts": "先分四十颗，每人五颗。"
-  },
   "1kxnj1u2rz8": {
    "file": "1kxnj1u2rz8.mp3",
-   "dur": 4.9,
-   "tts": "四十八颗有点多，拆小一点：先分四十颗，再分八颗。"
-  },
-  "smf3jfe6eb": {
-   "file": "smf3jfe6eb.mp3",
-   "dur": 2.64,
-   "tts": "再分八颗，每人又多一颗。"
+   "dur": 5.42,
+   "tts": "四十八颗有点多，拆小一点：先分四十颗，再分八颗。",
+   "ssml": "<speak>四十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>有点多，拆小一点：先分四十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，再分八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "2ep96xs1u53": {
    "file": "2ep96xs1u53.mp3",
-   "dur": 2.3,
-   "tts": "5加1，每人一共几颗？"
-  },
-  "5791t72evb": {
-   "file": "5791t72evb.mp3",
-   "dur": 3.5,
-   "tts": "对啦。5加1等于6，每人六颗。"
+   "dur": 2.4,
+   "tts": "5加1，每人一共几颗？",
+   "ssml": "<speak>5加1，每人一共几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "1h28cs3ypoe": {
    "file": "1h28cs3ypoe.mp3",
-   "dur": 2.93,
-   "tts": "5加1等于6，每人六颗。"
+   "dur": 2.71,
+   "tts": "5加1等于6，每人六颗。",
+   "ssml": "<speak>5加1等于6，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "d76idw820g": {
    "file": "d76idw820g.mp3",
@@ -588,7 +472,8 @@
   "md3mlir2iy": {
    "file": "md3mlir2iy.mp3",
    "dur": 2.47,
-   "tts": "好，现在回到四十八颗糖。"
+   "tts": "好，现在回到四十八颗糖。",
+   "ssml": "<speak>好，现在回到四十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖。</speak>"
   },
   "1k531gdtulx": {
    "file": "1k531gdtulx.mp3",
@@ -599,16 +484,6 @@
    "file": "r5l714552m.mp3",
    "dur": 5.26,
    "tts": "8、16、24、32、40、48。"
-  },
-  "v0m3p1r420": {
-   "file": "v0m3p1r420.mp3",
-   "dur": 6.82,
-   "tts": "对啦。你先想到了8乘4等于32，用乘法来想除法，这个办法很好。"
-  },
-  "rmrcf735vm": {
-   "file": "rmrcf735vm.mp3",
-   "dur": 6.74,
-   "tts": "我们分一分看：三十二颗分给八个人，每人四颗。所以32除以8等于4。"
   },
   "1bqarelu3uw": {
    "file": "1bqarelu3uw.mp3",
@@ -645,25 +520,17 @@
    "dur": 2.71,
    "tts": "我们用画面看一看，为什么是4。"
   },
-  "28lo6njpmqg": {
-   "file": "28lo6njpmqg.mp3",
-   "dur": 6.29,
-   "tts": "二十四颗糖，平均分给六个小朋友。一人一颗地发，发一轮要用六颗。"
-  },
   "aljqmamp12": {
    "file": "aljqmamp12.mp3",
-   "dur": 5.33,
-   "tts": "已经发了两轮，每人两颗。还剩十二颗，还能再发几轮？"
-  },
-  "188ggxgh7qk": {
-   "file": "188ggxgh7qk.mp3",
-   "dur": 2.76,
-   "tts": "对啦。再发两轮，每人四颗。"
+   "dur": 5.3,
+   "tts": "已经发了两轮，每人两颗。还剩十二颗，还能再发几轮？",
+   "ssml": "<speak>已经<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了两轮，每人两<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。还剩十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，还能再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>几轮？</speak>"
   },
   "1u0vfwh32v1": {
    "file": "1u0vfwh32v1.mp3",
-   "dur": 3.12,
-   "tts": "发完了。每人四颗，一颗也没剩。"
+   "dur": 3.5,
+   "tts": "发完了。每人四颗，一颗也没剩。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>完了。每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也没剩。</speak>"
   },
   "oimqx8f784": {
    "file": "oimqx8f784.mp3",
@@ -681,40 +548,29 @@
    "dur": 2.4,
    "tts": "跳到24，一共跳了几次？"
   },
-  "1vhwtn7eez9": {
-   "file": "1vhwtn7eez9.mp3",
-   "dur": 3.53,
-   "tts": "对啦。跳了四次，24里面有四个6。"
-  },
   "1yityshllew": {
    "file": "1yityshllew.mp3",
-   "dur": 5.54,
-   "tts": "二十四颗有点多，拆小一点：先分十二颗，再分十二颗。"
-  },
-  "buu0na1ixn": {
-   "file": "buu0na1ixn.mp3",
-   "dur": 2.4,
-   "tts": "先分十二颗，每人两颗。"
+   "dur": 5.06,
+   "tts": "二十四颗有点多，拆小一点：先分十二颗，再分十二颗。",
+   "ssml": "<speak>二十四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>有点多，拆小一点：先分十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，再分十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "25hn9skf7dx": {
    "file": "25hn9skf7dx.mp3",
-   "dur": 2.09,
-   "tts": "2加2，每人一共几颗？"
+   "dur": 2.35,
+   "tts": "2加2，每人一共几颗？",
+   "ssml": "<speak>2加2，每人一共几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "1ocrq1bieq5": {
    "file": "1ocrq1bieq5.mp3",
-   "dur": 2.14,
-   "tts": "2加2等于4，每人四颗。"
+   "dur": 2.28,
+   "tts": "2加2等于4，每人四颗。",
+   "ssml": "<speak>2加2等于4，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "1ef6j367j9y": {
    "file": "1ef6j367j9y.mp3",
-   "dur": 1.9,
-   "tts": "好，现在回到二十四颗糖。"
-  },
-  "2b5sfizlmmx": {
-   "file": "2b5sfizlmmx.mp3",
-   "dur": 3.58,
-   "tts": "对啦。2加2等于4，每人四颗。"
+   "dur": 2.5,
+   "tts": "好，现在回到二十四颗糖。",
+   "ssml": "<speak>好，现在回到二十四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖。</speak>"
   },
   "268i8376zpp": {
    "file": "268i8376zpp.mp3",
@@ -728,8 +584,9 @@
   },
   "19smij5ybnq": {
    "file": "19smij5ybnq.mp3",
-   "dur": 8.33,
-   "tts": "六个小朋友，每人四颗，正好二十四颗。6乘4等于24，所以24除以6等于4。"
+   "dur": 8.3,
+   "tts": "六个小朋友，每人四颗，正好二十四颗。6乘4等于24，所以24除以6等于4。",
+   "ssml": "<speak>六个小朋友，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，正好二十四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。6乘4等于24，所以24除以6等于4。</speak>"
   },
   "202bep9l7gm": {
    "file": "202bep9l7gm.mp3",
@@ -740,11 +597,6 @@
    "file": "174po17sv7l.mp3",
    "dur": 4.7,
    "tts": "6乘5等于30，还不到36。再想一想？"
-  },
-  "1rp3o5sxfo2": {
-   "file": "1rp3o5sxfo2.mp3",
-   "dur": 7.01,
-   "tts": "对啦。你先想到了6乘6等于36，用乘法来想除法，这个办法很好。"
   },
   "6jcu6pctpp": {
    "file": "6jcu6pctpp.mp3",
@@ -761,11 +613,6 @@
    "dur": 4.58,
    "tts": "我们先看清楚题目里的数：是34除以4。"
   },
-  "7ub830ttpb": {
-   "file": "7ub830ttpb.mp3",
-   "dur": 7.18,
-   "tts": "我们分一分看：三十六颗分给六个人，每人六颗。所以36除以6等于6。"
-  },
   "1u7zyuztge4": {
    "file": "1u7zyuztge4.mp3",
    "dur": 4.92,
@@ -781,35 +628,23 @@
    "dur": 6.94,
    "tts": "提示：4的口诀里，哪一句的得数最接近34，又不超过34？"
   },
-  "vwsnkzrdk0": {
-   "file": "vwsnkzrdk0.mp3",
-   "dur": 3.96,
-   "tts": "对，每人八个。我们分一分，看看还剩几个。"
-  },
   "1izn4hr3mg9": {
    "file": "1izn4hr3mg9.mp3",
-   "dur": 3.43,
-   "tts": "发了八轮，每人八个，用了三十二个。"
-  },
-  "1igqxkkyd9e": {
-   "file": "1igqxkkyd9e.mp3",
-   "dur": 6.53,
-   "tts": "三十四个橘子，平均分给四个小朋友。一人一个地发，发一轮要用四个。"
+   "dur": 3.48,
+   "tts": "发了八轮，每人八个，用了三十二个。",
+   "ssml": "<speak><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>了八轮，每人八个，用了三十二个。</speak>",
+   "seed": 1
   },
   "1tfie6clpfc": {
    "file": "1tfie6clpfc.mp3",
    "dur": 3.07,
-   "tts": "再发一轮要四个，可是剩下的不够了。"
+   "tts": "再发一轮要四个，可是剩下的不够了。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要四个，可是剩下的不够了。</speak>"
   },
   "mvbgru66tb": {
    "file": "mvbgru66tb.mp3",
    "dur": 0.94,
    "tts": "还剩几个？"
-  },
-  "25hp9edwn0w": {
-   "file": "25hp9edwn0w.mp3",
-   "dur": 3.24,
-   "tts": "对，还剩两个。分不完、剩下的数，就叫余数。"
   },
   "2dzrtyfppau": {
    "file": "2dzrtyfppau.mp3",
@@ -842,11 +677,6 @@
    "dur": 5.45,
    "tts": "提示：4的口诀里，最接近25、又不超过25的得数是几？"
   },
-  "qhwq2ge448": {
-   "file": "qhwq2ge448.mp3",
-   "dur": 1.27,
-   "tts": "对，每人分六个。"
-  },
   "4dmayl232z": {
    "file": "4dmayl232z.mp3",
    "dur": 4.9,
@@ -867,11 +697,6 @@
    "dur": 4.8,
    "tts": "再问一个：25除以4，每人分六个，还剩几个？"
   },
-  "1ofvpwohcyj": {
-   "file": "1ofvpwohcyj.mp3",
-   "dur": 6.34,
-   "tts": "对，还剩一个。4乘6等于24，25比24多1。"
-  },
   "1zegzc4gt5f": {
    "file": "1zegzc4gt5f.mp3",
    "dur": 5.26,
@@ -887,20 +712,10 @@
    "dur": 3.84,
    "tts": "商写的是8，想对了：每人八个。"
   },
-  "wkxszg9z27": {
-   "file": "wkxszg9z27.mp3",
-   "dur": 5.69,
-   "tts": "我们分一分：二十五个分给四个小朋友，每人六个，还剩一个。"
-  },
   "wzm71xty1a": {
    "file": "wzm71xty1a.mp3",
    "dur": 3.55,
    "tts": "那每人八个分完以后，还剩几个呢？"
-  },
-  "hucb38ssnt": {
-   "file": "hucb38ssnt.mp3",
-   "dur": 2.83,
-   "tts": "对，还剩两个。我们分一分，看个清楚。"
   },
   "2364rvo9uot": {
    "file": "2364rvo9uot.mp3",
@@ -919,48 +734,51 @@
   },
   "vkov29v6we": {
    "file": "vkov29v6we.mp3",
-   "dur": 3.05,
-   "tts": "那每人九颗分完以后，还剩几颗？"
+   "dur": 3.53,
+   "tts": "那每人九颗分完以后，还剩几颗？",
+   "ssml": "<speak>那每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分完以后，还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "jgezcga2c9": {
    "file": "jgezcga2c9.mp3",
-   "dur": 5.14,
-   "tts": "商写的是9，想对了：4乘9等于36，每人九颗。"
+   "dur": 5.64,
+   "tts": "商写的是9，想对了：4乘9等于36，每人九颗。",
+   "ssml": "<speak>商写的是9，想对了：4乘9等于36，每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "1omcwu9u29r": {
    "file": "1omcwu9u29r.mp3",
-   "dur": 4.9,
-   "tts": "提示：4乘9等于36，三十六颗分完还剩几颗？"
+   "dur": 5.33,
+   "tts": "提示：4乘9等于36，三十六颗分完还剩几颗？",
+   "ssml": "<speak>提示：4乘9等于36，三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分完还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "itgnhg6ygp": {
    "file": "itgnhg6ygp.mp3",
-   "dur": 2.83,
-   "tts": "我们一起分一分，看看还剩几颗。"
-  },
-  "7awnoxh0q4": {
-   "file": "7awnoxh0q4.mp3",
-   "dur": 5.45,
-   "tts": "对，一颗也不剩，正好分完。正好分完的除法，不用写余数。"
+   "dur": 3.12,
+   "tts": "我们一起分一分，看看还剩几颗。",
+   "ssml": "<speak>我们一起分一分，看看还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
   },
   "2cgps7itkrf": {
    "file": "2cgps7itkrf.mp3",
-   "dur": 6.53,
-   "tts": "正好分完，一颗也不剩，所以36除以4等于9，不用写余数。"
+   "dur": 5.98,
+   "tts": "正好分完，一颗也不剩，所以36除以4等于9，不用写余数。",
+   "ssml": "<speak>正好分完，一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也不剩，所以36除以4等于9，不用写余数。</speak>"
   },
   "hlkdhbspxz": {
    "file": "hlkdhbspxz.mp3",
-   "dur": 4.73,
-   "tts": "再问一个：28除以4，每人分七颗，还剩几颗？"
+   "dur": 4.8,
+   "tts": "再问一个：28除以4，每人分七颗，还剩几颗？",
+   "ssml": "<speak>再问一个：28除以4，每人分七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "1clxus736gt": {
    "file": "1clxus736gt.mp3",
-   "dur": 4.13,
-   "tts": "4乘7等于28，分完还剩几颗？再想一想。"
+   "dur": 4.44,
+   "tts": "4乘7等于28，分完还剩几颗？再想一想。",
+   "ssml": "<speak>4乘7等于28，分完还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？再想一想。</speak>"
   },
   "2gkfzsz3tt9": {
    "file": "2gkfzsz3tt9.mp3",
-   "dur": 5.52,
-   "tts": "提示：4乘7等于28，二十八颗分完还剩几颗？"
+   "dur": 4.92,
+   "tts": "提示：4乘7等于28，二十八颗分完还剩几颗？",
+   "ssml": "<speak>提示：4乘7等于28，二十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分完还剩几<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>？</speak>"
   },
   "1wnjxt1ung": {
    "file": "1wnjxt1ung.mp3",
@@ -971,11 +789,6 @@
    "file": "o1nxxwp8jn.mp3",
    "dur": 3.72,
    "tts": "提示：想一想4的口诀，30往上找。"
-  },
-  "1i4tey969n7": {
-   "file": "1i4tey969n7.mp3",
-   "dur": 11.93,
-   "tts": "对，增加两个。4的口诀里，30往上找是32，32比30多2。你用口诀往上找，这个办法很好。"
   },
   "2471mo811ex": {
    "file": "2471mo811ex.mp3",
@@ -996,8 +809,9 @@
   },
   "11k8xaotzc2": {
    "file": "11k8xaotzc2.mp3",
-   "dur": 12.17,
-   "tts": "每人分五个，还剩三个；再发一轮要四个，还差一个。增加一个，就正好分完。你知道要看下一轮还差几个，这个想法很好。"
+   "dur": 11.88,
+   "tts": "每人分五个，还剩三个；再发一轮要四个，还差一个。增加一个，就正好分完。你知道要看下一轮还差几个，这个想法很好。",
+   "ssml": "<speak>每人分五个，还剩三个；再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要四个，还差一个。增加一个，就正好分完。你知道要看下一轮还差几个，这个想法很好。</speak>"
   },
   "15rj9w91wax": {
    "file": "15rj9w91wax.mp3",
@@ -1016,11 +830,6 @@
    "dur": 2.93,
    "tts": "我们一起分一分，看看多出来几个。"
   },
-  "xfzs9ng1rs": {
-   "file": "xfzs9ng1rs.mp3",
-   "dur": 4.3,
-   "tts": "对，拿走三个。我们分一分，看看为什么是三个。"
-  },
   "ke4vxvz2d": {
    "file": "ke4vxvz2d.mp3",
    "dur": 6.29,
@@ -1030,11 +839,6 @@
    "file": "1rchvt0txim.mp3",
    "dur": 3.67,
    "tts": "提示：想一想4的口诀，30往下找。"
-  },
-  "7s5exrv0jf": {
-   "file": "7s5exrv0jf.mp3",
-   "dur": 9.34,
-   "tts": "对，拿走两个。4的口诀里，30往下找是28，30比28多2。你用口诀往下找，这个办法很好。"
   },
   "24q7lzycn8b": {
    "file": "24q7lzycn8b.mp3",
@@ -1057,6 +861,331 @@
    "dur": 3.0,
    "tts": "我们一空一空来，先用分一分把它看清楚。",
    "ssml": "<speak>我们一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>一<phoneme alphabet=\"py\" ph=\"kong4\">空</phoneme>来，先用分一分把它看清楚。</speak>"
+  },
+  "ek9q3cwnku": {
+   "file": "ek9q3cwnku.mp3",
+   "dur": 2.09,
+   "tts": "再发三轮，每人九颗。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>三轮，每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "7qnqyl8yg8": {
+   "file": "7qnqyl8yg8.mp3",
+   "dur": 1.27,
+   "tts": "先分二十颗。",
+   "ssml": "<speak>先分二十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "c56k56l472": {
+   "file": "c56k56l472.mp3",
+   "dur": 1.18,
+   "tts": "再分十六颗。",
+   "ssml": "<speak>再分十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1hggqdo7p8p": {
+   "file": "1hggqdo7p8p.mp3",
+   "dur": 1.42,
+   "tts": "每人又多四颗。",
+   "ssml": "<speak>每人又多四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1ibl5qq86sr": {
+   "file": "1ibl5qq86sr.mp3",
+   "dur": 0.91,
+   "tts": "每人五颗。",
+   "ssml": "<speak>每人五<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "13obitqyj6t": {
+   "file": "13obitqyj6t.mp3",
+   "dur": 1.08,
+   "tts": "我们分一分看。"
+  },
+  "1c7fqpnldbr": {
+   "file": "1c7fqpnldbr.mp3",
+   "dur": 7.42,
+   "tts": "选的是7，对了。4乘7等于28，正好对上。用乘法来想除法，就能检查。"
+  },
+  "1ux2gw1wqwq": {
+   "file": "1ux2gw1wqwq.mp3",
+   "dur": 1.97,
+   "tts": "再发三轮，每人七颗。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>三轮，每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "21e4jl1g2oc": {
+   "file": "21e4jl1g2oc.mp3",
+   "dur": 6.34,
+   "tts": "二十八颗分给四个人，每人七颗。所以28除以4等于7。",
+   "ssml": "<speak>二十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分给四个人，每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。所以28除以4等于7。</speak>"
+  },
+  "1sk5aehv7dm": {
+   "file": "1sk5aehv7dm.mp3",
+   "dur": 11.9,
+   "tts": "选的是5，对了。用7的口诀检查一下：30往上找是35，还差五个，增加五个正好装完。拿走往下找，增加往上找。"
+  },
+  "94etn5rn3g": {
+   "file": "94etn5rn3g.mp3",
+   "dur": 1.22,
+   "tts": "先分三十颗。",
+   "ssml": "<speak>先分三十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1rezi4f3anj": {
+   "file": "1rezi4f3anj.mp3",
+   "dur": 1.32,
+   "tts": "再分十二颗。",
+   "ssml": "<speak>再分十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "fj8m8kpjui": {
+   "file": "fj8m8kpjui.mp3",
+   "dur": 1.39,
+   "tts": "每人又多两颗。",
+   "ssml": "<speak>每人又多两<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "tqmmtj617q": {
+   "file": "tqmmtj617q.mp3",
+   "dur": 7.01,
+   "tts": "选的是5，对了。6乘5等于30，正好对上。用乘法来想除法，就能检查。"
+  },
+  "1janlng818n": {
+   "file": "1janlng818n.mp3",
+   "dur": 4.97,
+   "tts": "三十颗分给六个人，每人五颗。所以30除以6等于5。",
+   "ssml": "<speak>三十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分给六个人，每人五<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。所以30除以6等于5。</speak>"
+  },
+  "74jo5gc9cg": {
+   "file": "74jo5gc9cg.mp3",
+   "dur": 2.3,
+   "tts": "再发三轮，每人六颗。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>三轮，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1tjkxp52g6s": {
+   "file": "1tjkxp52g6s.mp3",
+   "dur": 1.18,
+   "tts": "再分八颗。",
+   "ssml": "<speak>再分八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "aokkhi8dur": {
+   "file": "aokkhi8dur.mp3",
+   "dur": 1.54,
+   "tts": "先分四十颗。",
+   "ssml": "<speak>先分四十<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>",
+   "seed": 29
+  },
+  "165alhqdftr": {
+   "file": "165alhqdftr.mp3",
+   "dur": 7.44,
+   "tts": "选的是4，对了。8乘4等于32，正好对上。用乘法来想除法，就能检查。"
+  },
+  "19o7kwffqpa": {
+   "file": "19o7kwffqpa.mp3",
+   "dur": 1.3,
+   "tts": "每人又多一颗。",
+   "ssml": "<speak>每人又多一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "16zpp6743jc": {
+   "file": "16zpp6743jc.mp3",
+   "dur": 6.02,
+   "tts": "三十二颗分给八个人，每人四颗。所以32除以8等于4。",
+   "ssml": "<speak>三十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分给八个人，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。所以32除以8等于4。</speak>"
+  },
+  "1nvw0x4bg3o": {
+   "file": "1nvw0x4bg3o.mp3",
+   "dur": 1.87,
+   "tts": "再发两轮，每人四颗。",
+   "ssml": "<speak>再<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>两轮，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "nrosg22hfn": {
+   "file": "nrosg22hfn.mp3",
+   "dur": 0.98,
+   "tts": "每人两颗。",
+   "ssml": "<speak>每人两<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1s6h8qwn3zw": {
+   "file": "1s6h8qwn3zw.mp3",
+   "dur": 1.37,
+   "tts": "先分十二颗。",
+   "ssml": "<speak>先分十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "131clbbl5d4": {
+   "file": "131clbbl5d4.mp3",
+   "dur": 6.17,
+   "tts": "三十六颗分给六个人，每人六颗。所以36除以6等于6。",
+   "ssml": "<speak>三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>分给六个人，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。所以36除以6等于6。</speak>"
+  },
+  "1kr4k1quhxs": {
+   "file": "1kr4k1quhxs.mp3",
+   "dur": 4.18,
+   "tts": "二十五个分给四个小朋友，每人六个，还剩一个。"
+  },
+  "ek7reaee7p": {
+   "file": "ek7reaee7p.mp3",
+   "dur": 9.53,
+   "tts": "选的是6，对了。6乘6等于36，正好对上。用乘法来想除法，就能检查。"
+  },
+  "1fs2r5cbc5i": {
+   "file": "1fs2r5cbc5i.mp3",
+   "dur": 12.41,
+   "tts": "选的是2，对了。用4的口诀检查一下：30往上找是32，还差两个，增加两个正好装完。拿走往下找，增加往上找。"
+  },
+  "zw8h3ncebn": {
+   "file": "zw8h3ncebn.mp3",
+   "dur": 12.12,
+   "tts": "选的是2，对了。用4的口诀检查一下：30往下找是28，多出两个，拿走两个正好装完。拿走往下找，增加往上找。"
+  },
+  "1zbs8w2ny25": {
+   "file": "1zbs8w2ny25.mp3",
+   "dur": 1.68,
+   "tts": "我们一轮一轮分。"
+  },
+  "t43u24qzaz": {
+   "file": "t43u24qzaz.mp3",
+   "dur": 6.07,
+   "tts": "四十二颗糖，平均分给六个小朋友。每人发一颗，发一轮要用六颗。",
+   "ssml": "<speak>四十二<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖，平均分给六个小朋友。每人<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要用六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1f11i3y8pbf": {
+   "file": "1f11i3y8pbf.mp3",
+   "dur": 6.48,
+   "tts": "三十六颗糖，平均分给四个小朋友。每人发一颗，发一轮要用四颗。",
+   "ssml": "<speak>三十六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖，平均分给四个小朋友。每人<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要用四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1n94fpyccr1": {
+   "file": "1n94fpyccr1.mp3",
+   "dur": 2.62,
+   "tts": "就这样，一轮一轮发下去……",
+   "ssml": "<speak>就这样，一轮一轮<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>下去……</speak>"
+  },
+  "r6e228hiq9": {
+   "file": "r6e228hiq9.mp3",
+   "dur": 6.46,
+   "tts": "二十四颗糖，平均分给六个小朋友。每人发一颗，发一轮要用六颗。",
+   "ssml": "<speak>二十四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖，平均分给六个小朋友。每人<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要用六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "mf6bfazn06": {
+   "file": "mf6bfazn06.mp3",
+   "dur": 5.9,
+   "tts": "三十四个橘子，平均分给四个小朋友。每人发一个，发一轮要用四个。",
+   "ssml": "<speak>三十四个橘子，平均分给四个小朋友。每人<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一个，<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要用四个。</speak>"
+  },
+  "1yckw6zs25l": {
+   "file": "1yckw6zs25l.mp3",
+   "dur": 5.88,
+   "tts": "四十八颗糖，平均分给八个小朋友。每人发一颗，发一轮要用八颗。",
+   "ssml": "<speak>四十八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>糖，平均分给八个小朋友。每人<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>，<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>一轮要用八<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "b32xdpufr5": {
+   "file": "b32xdpufr5.mp3",
+   "dur": 4.94,
+   "tts": "选的是9，对了。跳了九次，36里面有九个4。",
+   "seed": 1
+  },
+  "186ohxszolk": {
+   "file": "186ohxszolk.mp3",
+   "dur": 3.1,
+   "tts": "选的是3，对了。我们发发看。",
+   "ssml": "<speak>选的是3，对了。我们<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>看。</speak>"
+  },
+  "2d5fce0r33l": {
+   "file": "2d5fce0r33l.mp3",
+   "dur": 9.65,
+   "tts": "选的是9，对了。4乘9等于36，正好对上，所以36除以4等于9。我们看看分出来是什么样子。"
+  },
+  "cochalx36b": {
+   "file": "cochalx36b.mp3",
+   "dur": 3.79,
+   "tts": "选的是1，对了。我们分一分，看看为什么增加一个。"
+  },
+  "hitkstpmia": {
+   "file": "hitkstpmia.mp3",
+   "dur": 6.0,
+   "tts": "选的是9，对了。5加4等于9，每人九颗。",
+   "ssml": "<speak>选的是9，对了。5加4等于9，每人九<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1d17290cut7": {
+   "file": "1d17290cut7.mp3",
+   "dur": 2.47,
+   "tts": "选的是1，对了，只差一个。"
+  },
+  "1yvwt0bpkx6": {
+   "file": "1yvwt0bpkx6.mp3",
+   "dur": 4.3,
+   "tts": "选的是7，对了。跳了七次，42里面有七个6。"
+  },
+  "17rbdxgv4ut": {
+   "file": "17rbdxgv4ut.mp3",
+   "dur": 4.75,
+   "tts": "选的是7，对了。5加2等于7，每人七颗。",
+   "ssml": "<speak>选的是7，对了。5加2等于7，每人七<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "up6snfl43y": {
+   "file": "up6snfl43y.mp3",
+   "dur": 11.04,
+   "tts": "选的是7，对了。6乘7等于42，正好对上，所以42除以6等于7。我们看看分出来是什么样子。"
+  },
+  "7ipzz45hlu": {
+   "file": "7ipzz45hlu.mp3",
+   "dur": 9.53,
+   "tts": "选的是6，对了。8乘6等于48，正好对上，所以48除以8等于6。我们看看分出来是什么样子。"
+  },
+  "1wohnwd8mm2": {
+   "file": "1wohnwd8mm2.mp3",
+   "dur": 4.15,
+   "tts": "选的是6，对了。跳了六次，48里面有六个8。"
+  },
+  "9dqflzela0": {
+   "file": "9dqflzela0.mp3",
+   "dur": 4.1,
+   "tts": "选的是6，对了。5加1等于6，每人六颗。",
+   "ssml": "<speak>选的是6，对了。5加1等于6，每人六<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "2eag2804c3q": {
+   "file": "2eag2804c3q.mp3",
+   "dur": 2.54,
+   "tts": "选的是2，对了。我们发发看。",
+   "ssml": "<speak>选的是2，对了。我们<phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme><phoneme alphabet=\"py\" ph=\"fa1\">发</phoneme>看。</speak>"
+  },
+  "2cjv77byb9o": {
+   "file": "2cjv77byb9o.mp3",
+   "dur": 4.97,
+   "tts": "选的是4，对了。2加2等于4，每人四颗。",
+   "ssml": "<speak>选的是4，对了。2加2等于4，每人四<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>。</speak>"
+  },
+  "1ck8fbltywl": {
+   "file": "1ck8fbltywl.mp3",
+   "dur": 5.28,
+   "tts": "选的是4，对了。跳了四次，24里面有四个6。"
+  },
+  "26f7dtl230s": {
+   "file": "26f7dtl230s.mp3",
+   "dur": 4.75,
+   "tts": "选的是8，对了：每人八个。我们分一分，看看还剩几个。"
+  },
+  "zcfoy8khjd": {
+   "file": "zcfoy8khjd.mp3",
+   "dur": 2.47,
+   "tts": "选的是6，对了：每人分六个。"
+  },
+  "3zmg4vyprv": {
+   "file": "3zmg4vyprv.mp3",
+   "dur": 5.35,
+   "tts": "选的是2，对了：还剩两个。分不完、剩下的数，就叫余数。"
+  },
+  "1ay8trb9ull": {
+   "file": "1ay8trb9ull.mp3",
+   "dur": 5.98,
+   "tts": "选的是1，对了：还剩一个。4乘6等于24，25比24多1。"
+  },
+  "1dt4iczcvm0": {
+   "file": "1dt4iczcvm0.mp3",
+   "dur": 4.42,
+   "tts": "选的是3，对了。我们分一分，看看为什么拿走三个。"
+  },
+  "ni9l8qjegm": {
+   "file": "ni9l8qjegm.mp3",
+   "dur": 4.18,
+   "tts": "选的是2，对了：还剩两个。我们分一分，看个清楚。"
+  },
+  "1m1vywg3v3": {
+   "file": "1m1vywg3v3.mp3",
+   "dur": 7.92,
+   "tts": "选的是0，对了：一颗也不剩，正好分完。正好分完的除法，不用写余数。",
+   "ssml": "<speak>选的是0，对了：一<phoneme alphabet=\"py\" ph=\"ke1\">颗</phoneme>也不剩，正好分完。正好分完的除法，不用写余数。</speak>"
   }
  }
 }
